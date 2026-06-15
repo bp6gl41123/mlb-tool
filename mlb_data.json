@@ -1,0 +1,103 @@
+{
+  "matchup": "馬林魚 @ 海盜",
+  "pitchers": "Max Meyer vs Paul Skenes",
+  "spread_note": "差距 1.0 分 → 海盜合理讓 1+40 ~ 1+04",
+  "ref_note": "昨天 Chandler 讓 1+52 → Skenes 升級約 30 點",
+  "extra_note": "Meyer 不敗(6-0) ↔ Skenes 連敗 → 心理因子抵銷",
+  "team_a": {
+    "abbr": "MIA",
+    "name": "馬林魚",
+    "starter": "Max Meyer",
+    "record": "6-0, 2.85 ERA",
+    "era": 2.85,
+    "y_team": 3,
+    "y_starter": 0,
+    "y_note": "牛棚日 — Bachar 開局",
+    "bp_adj": "全隊失3 → Meyer 6局 → 牛棚只吃2-3局，估 1-2",
+    "starts": [
+      {
+        "opp": "響尾蛇",
+        "wins": 35,
+        "runs": 2
+      },
+      {
+        "opp": "國民",
+        "wins": 36,
+        "runs": 1
+      }
+    ],
+    "opp_w": 36,
+    "cross_ref": {
+      "pitcher": "Bachar",
+      "vs_other": "vs 響尾蛇 → 0 失分",
+      "vs_opp": "vs 海盜   → 3 失分",
+      "note": "海盜打線比響尾蛇強 3 分 → Meyer 理論值 +3"
+    },
+    "opp_runs_yesterday": 3,
+    "opp_runs_note": "海盜昨得 3（對馬林牛棚）",
+    "starter_est": "~1",
+    "bp_est": "1-2",
+    "total_lo": 2,
+    "total_hi": 3,
+    "warn": false,
+    "mech_vals": [
+      {
+        "opp": "響尾蛇",
+        "wins": 35,
+        "runs": 2,
+        "cal": 2.2
+      },
+      {
+        "opp": "國民",
+        "wins": 36,
+        "runs": 1,
+        "cal": 1.0
+      }
+    ],
+    "mech_avg": 1.6,
+    "bp_debt": 3
+  },
+  "team_b": {
+    "abbr": "PIT",
+    "name": "海盜",
+    "starter": "Paul Skenes",
+    "record": "6-5, 2.84 ERA",
+    "era": 2.84,
+    "y_team": 2,
+    "y_starter": 2,
+    "y_note": "Chandler 5.2局 2ER",
+    "bp_adj": "昨牛棚 3.1局 0失分 → 今天無負債",
+    "starts": [
+      {
+        "opp": "道奇",
+        "wins": 45,
+        "runs": 2
+      }
+    ],
+    "opp_w": 35,
+    "cross_ref": {
+      "pitcher": "Chandler",
+      "vs_other": "vs 勇士 → 3 ER",
+      "vs_opp": "vs 馬林 → 2 ER",
+      "note": "同一投手對兩隊差 1 分 → 馬林打線 ≈ 勇士-1"
+    },
+    "opp_runs_yesterday": 2,
+    "opp_runs_note": "馬林昨得 2（對海盜 Chandler）",
+    "starter_est": "~1",
+    "bp_est": "0",
+    "total_lo": 1,
+    "total_hi": 2,
+    "warn": true,
+    "warn_msg": "機械校正 0.0 — 低於觀測值",
+    "mech_vals": [
+      {
+        "opp": "道奇",
+        "wins": 45,
+        "runs": 2,
+        "cal": 0.0
+      }
+    ],
+    "mech_avg": 0.0,
+    "bp_debt": 0
+  }
+}

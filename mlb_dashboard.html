@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<title>MLB 責失估算 · SportsGoWin</title>
+<script src="mlb_data.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:#0A0A0C; --bg2:#111116; --bg3:#18181F; --bg4:#1E1E28;
+  --border:rgba(201,168,76,0.15); --border-on:rgba(201,168,76,0.5);
+  --gold:#C9A84C; --gold2:#E8C96A; --gold3:#7A5E28;
+  --text:#E8E6DE; --dim:#7A7870; --mid:#A8A49A;
+  --red:#E84040; --blue:#4080E8; --green:#38C878; --warn:#D2991D;
+  --mia:#00a3bf; --pit:#fdb827;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--text);font-family:'Noto Sans TC',sans-serif;min-height:100vh}
+.header{background:var(--bg2);border-bottom:1px solid var(--border);padding:14px 16px;text-align:center}
+.header h1{font-size:16px;color:var(--gold);letter-spacing:.04em}
+.header .sub{font-size:11px;color:var(--dim);margin-top:3px}
+
+.container{max-width:800px;margin:0 auto;padding:12px}
+
+/* matchup */
+.matchup{display:flex;align-items:center;justify-content:center;gap:16px;padding:14px;margin-bottom:12px;background:var(--bg2);border:1px solid var(--border);border-radius:8px}
+.matchup .team{text-align:center;flex:1}
+.matchup .team .name{font-size:18px;font-weight:700;font-family:'Rajdhani','Noto Sans TC',sans-serif}
+.matchup .team .pitcher{font-size:11px;color:var(--dim)}
+.matchup .vs{color:var(--gold3);font-size:12px;font-weight:700}
+.mia{color:var(--mia)} .pit{color:var(--pit)}
+
+/* tabs */
+.tabs{display:flex;gap:4px;margin-bottom:12px}
+.tab{flex:1;padding:8px;text-align:center;font-size:11px;font-weight:700;letter-spacing:.05em;background:var(--bg2);border:1px solid var(--border);border-radius:6px;color:var(--dim);cursor:pointer;user-select:none;transition:.15s}
+.tab.on{background:rgba(201,168,76,0.08);border-color:var(--border-on);color:var(--gold)}
+
+/* section */
+.sec{background:var(--bg2);border:1px solid var(--border);border-radius:8px;margin-bottom:8px;overflow:hidden}
+.sec-head{padding:10px 14px;display:flex;justify-content:space-between;align-items:center;cursor:pointer;user-select:none}
+.sec-head .title{font-size:12px;font-weight:700;letter-spacing:.05em}
+.sec-head .arrow{font-size:10px;color:var(--dim);transition:.2s}
+.sec-head.open .arrow{transform:rotate(180deg)}
+.sec-body{display:none;padding:10px 14px 14px;border-top:1px solid var(--border)}
+.sec-body.show{display:block}
+
+/* table */
+.tbl{width:100%;font-size:11px;border-collapse:collapse}
+.tbl th{color:var(--dim);font-weight:500;text-align:left;padding:3px 6px;border-bottom:1px solid var(--border);font-size:10px}
+.tbl td{padding:4px 6px;border-bottom:1px solid rgba(48,54,61,0.3);font-variant-numeric:tabular-nums}
+.tbl .hi{font-weight:700;color:var(--gold)}
+.tbl .lo{color:var(--dim)}
+.tbl .tag{font-size:9px;font-weight:700;padding:1px 5px;border-radius:3px}
+.tbl .tag-home{background:rgba(64,128,232,0.15);color:var(--blue)}
+.tbl .tag-away{background:rgba(232,128,64,0.15);color:#FFB080}
+.tbl .tag-warn{background:rgba(210,153,29,0.15);color:var(--warn)}
+.tbl .tag-ok{background:rgba(56,200,120,0.1);color:var(--green)}
+
+/* venue pill */
+.venue{display:inline-block;font-size:9px;padding:1px 6px;border-radius:10px;font-weight:600}
+.venue.home{background:rgba(64,128,232,0.12);color:var(--blue)}
+.venue.away{background:rgba(232,128,64,0.12);color:#FFB080}
+.venue.today{border:1px solid var(--gold3)}
+
+/* estimate bar */
+.bar-row{display:flex;align-items:center;gap:10px;padding:6px 0}
+.bar-row .label{font-weight:700;min-width:40px;font-size:13px}
+.bar-row .num{font-family:'Rajdhani',monospace;font-size:16px;font-weight:700;min-width:36px}
+.bar-wrap{flex:1;height:18px;background:var(--bg3);border-radius:4px;overflow:hidden}
+.bar-fill{height:100%;border-radius:4px;display:flex;align-items:center;padding-left:6px;font-size:10px;font-weight:700;color:#000}
+.bar-a{background:var(--mia)} .bar-b{background:var(--pit)}
+
+/* delta badge */
+.delta{font-family:'Rajdhani',monospace;font-size:13px;font-weight:700;padding:2px 8px;border-radius:4px}
+.delta.good{background:rgba(56,200,120,0.12);color:var(--green)}
+.delta.bad{background:rgba(232,64,64,0.12);color:var(--red)}
+.delta.neutral{background:rgba(120,120,120,0.12);color:var(--mid)}
+
+/* footer */
+.ft{text-align:center;padding:14px;font-size:10px;color:var(--dim);border-top:1px solid var(--border);margin-top:16px}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>⚾ MLB 兩日責失估算</h1>
+  <div class="sub" id="sub">載入中...</div>
+</div>
+
+<div class="container" id="app"><div style="text-align:center;padding:40px;color:var(--dim)">讀取數據中...</div></div>
+<div class="ft">跨投手對照法 · 主客場分流 · 牛棚負債</div>
+
+<script>
+(function(){
+  function init(){
+    if(!window.MLB_DATA){setTimeout(init,100);return}
+    var d=window.MLB_DATA,a=d.team_a,b=d.team_b;
+    document.getElementById('sub').textContent=d.matchup+' — '+d.pitchers;
+    document.getElementById('app').innerHTML=build(d,a,b);
+  }
+
+  function build(d,a,b){
+    return matchupBar(a,b)+tabs()+
+      section('both','🔗 雙方先發對比',bothView(a,b))+
+      section('team-a','📋 '+a.name+' '+a.starter.split(' ').pop(),teamView(a))+
+      section('team-b','📋 '+b.name+' '+b.starter.split(' ').pop(),teamView(b))+
+      estimateBar(d,a,b);
+  }
+
+  function matchupBar(a,b){
+    return '<div class="matchup">'+
+      '<div class="team"><div class="name mia">'+a.name+'</div><div class="pitcher">'+a.starter+'</div></div>'+
+      '<div class="vs">@</div>'+
+      '<div class="team"><div class="name pit">'+b.name+'</div><div class="pitcher">'+b.starter+'</div></div>'+
+    '</div>';
+  }
+
+  function tabs(){
+    return '<div class="tabs">'+
+      '<div class="tab on" onclick="switchTab(\'both\')">雙方對比</div>'+
+      '<div class="tab" onclick="switchTab(\'team-a\')" id="tab-team-a"></div>'+
+      '<div class="tab" onclick="switchTab(\'team-b\')" id="tab-team-b"></div>'+
+    '</div>';
+  }
+
+  function section(id,title,body){
+    return '<div class="sec" id="sec-'+id+'">'+
+      '<div class="sec-head" onclick="toggleSec(\''+id+'\')">'+
+        '<span class="title">'+title+'</span>'+
+        '<span class="arrow">▼</span>'+
+      '</div>'+
+      '<div class="sec-body" id="body-'+id+'">'+body+'</div>'+
+    '</div>';
+  }
+
+  // ── 雙方對比視圖 ──
+  function bothView(a,b){
+    var h='<table class="tbl"><tr><th></th><th>'+a.name+'</th><th>'+b.name+'</th></tr>';
+
+    // 先發近況（客主分流）
+    h+='<tr><td colspan="3" style="color:var(--gold);font-size:10px;padding-top:8px">先發近況</td></tr>';
+    var maxS=Math.max(a.starts.length,b.starts.length);
+    for(var i=0;i<maxS;i++){
+      var as=a.starts[i],bs=b.starts[i];
+      var ac=as?startCell(as,a.today_venue):'<td></td>';
+      var bc=bs?startCell(bs,b.today_venue):'<td></td>';
+      h+='<tr><td style="color:var(--dim);font-size:10px">'+(as?as.label:'')+'</td>'+ac+bc+'</tr>';
+    }
+
+    // 主客場均
+    h+='<tr><td colspan="3" style="color:var(--gold);font-size:10px;padding-top:8px">主客場均</td></tr>';
+    h+='<tr><td style="color:var(--dim)">主場</td><td class="'+(a.venue_home_avg<=2?'hi':'')+'">'+fmt(a.venue_home_avg)+' ER</td><td class="'+(b.venue_home_avg<=2?'hi':'')+'">'+fmt(b.venue_home_avg)+' ER</td></tr>';
+    h+='<tr><td style="color:var(--dim)">客場</td><td class="'+(a.venue_away_avg<=2?'hi':'')+'">'+fmt(a.venue_away_avg)+' ER</td><td class="'+(b.venue_away_avg<=2?'hi':'')+'">'+fmt(b.venue_away_avg)+' ER</td></tr>';
+
+    // 跨投手配對
+    h+='<tr><td colspan="3" style="color:var(--gold);font-size:10px;padding-top:8px">跨投手對照</td></tr>';
+    var allM=[];
+    (a.cross_matches||[]).forEach(function(m){allM.push({side:a.name,m:m});});
+    (b.cross_matches||[]).forEach(function(m){allM.push({side:b.name,m:m});});
+    allM.forEach(function(x){
+      var m=x.m;
+      var dClass=m.delta<0?'good':m.delta>0?'bad':'neutral';
+      h+='<tr><td style="font-size:10px">'+m.opp+'('+m.opp_wins+'W)</td>'+
+        '<td>'+m.ref_er+'ER</td><td>'+m.today_er+'ER <span class="delta '+dClass+'">'+(m.delta>0?'+':'')+m.delta+'</span></td></tr>';
+    });
+
+    h+='</table>';
+    return h;
+  }
+
+  // ── 單隊視圖 ──
+  function teamView(t){
+    var venue=t.today_venue=='home'?'主場':'客場';
+    var h='<div style="font-size:10px;color:var(--dim);margin-bottom:6px">今天'+venue+' · '+t.record+'</div>';
+
+    // 昨天
+    h+='<div style="margin-bottom:8px"><span style="color:var(--gold3)">昨</span> '+t.y_pitcher+' '+t.y_starter+'ER 牛棚'+t.y_bullpen+'ER 全隊'+t.y_team+'</div>';
+
+    // 近三場 主客分流
+    h+='<table class="tbl"><tr><th>場次</th><th>對手</th><th>W</th><th>ER</th><th>場地</th></tr>';
+    t.starts.forEach(function(s){
+      var vc=s.venue=='home'?'venue home':'venue away';
+      var today=s.venue==t.today_venue?' today':'';
+      h+='<tr><td style="font-size:10px">'+s.label+'</td><td>'+s.opp+'</td><td>'+s.wins+'</td><td class="'+(s.runs<=1?'hi':'')+(s.runs>=5?' lo':'')+'">'+s.runs+'</td><td><span class="'+vc+today+'">'+s.venue+'</span></td></tr>';
+    });
+    h+='</table>';
+
+    // 主客場均
+    h+='<div style="margin-top:6px;font-size:11px;color:var(--dim)">主場均 <b style="color:var(--text)">'+fmt(t.venue_home_avg)+'</b> ER · 客場均 <b style="color:var(--text)">'+fmt(t.venue_away_avg)+'</b> ER</div>';
+    if(t.venue_split_note) h+='<div style="font-size:10px;color:var(--warn);margin-top:2px">⚡ '+t.venue_split_note+'</div>';
+
+    // 大好大壞
+    if(t.last_extreme){
+      var note=t.last_extreme_dir=='客場大壞'?'（今天主場→影響降低）':'';
+      h+='<div style="font-size:10px;color:var(--warn);margin-top:4px">⚡ 上一場'+t.last_extreme_dir+note+'</div>';
+    }
+
+    // 機械校正
+    h+='<div style="margin-top:8px;font-size:11px;color:var(--dim)">機械平均 <b style="color:var(--text)">'+t.mech_avg+'</b> ER</div>';
+
+    // 參考投手
+    h+='<div style="margin-top:8px"><span style="font-size:10px;color:var(--gold3)">參考 '+t.y_pitcher+'</span></div>';
+    h+='<table class="tbl"><tr><th>對手</th><th>W</th><th>ER</th><th>場地</th></tr>';
+    t.ref_starts.forEach(function(s){
+      var vc=s.venue=='home'?'venue home':'venue away';
+      h+='<tr><td>'+s.opp+'</td><td>'+s.wins+'</td><td>'+s.runs+'</td><td><span class="'+vc+'">'+s.venue+'</span></td></tr>';
+    });
+    h+='</table>';
+
+    return h;
+  }
+
+  // ── 估失條 ──
+  function estimateBar(d,a,b){
+    var h='<div class="sec" style="border-color:var(--border-on)"><div class="sec-head open" style="cursor:default"><span class="title">📊 責失估算</span></div><div class="sec-body show">';
+
+    h+='<div class="bar-row"><span class="label mia">'+a.name+'</span><span class="num">'+(a.total_lo||0)+'-'+(a.total_hi||0)+'</span><div class="bar-wrap"><div class="bar-fill bar-a" style="width:'+Math.min((a.total_hi||0)/6*100,100)+'%">'+(a.total_lo||0)+'-'+(a.total_hi||0)+' 分</div></div></div>';
+    h+='<div class="bar-row"><span class="label pit">'+b.name+'</span><span class="num">'+(b.total_lo||0)+'-'+(b.total_hi||0)+'</span><div class="bar-wrap"><div class="bar-fill bar-b" style="width:'+Math.min((b.total_hi||0)/6*100,100)+'%">'+(b.total_lo||0)+'-'+(b.total_hi||0)+' 分</div></div></div>';
+
+    h+='<div style="text-align:center;margin-top:8px;font-size:12px;color:var(--gold)">'+d.spread_note+'</div>';
+    if(d.ref_note)h+='<div style="text-align:center;font-size:10px;color:var(--dim)">'+d.ref_note+'</div>';
+    h+='</div></div>';
+    return h;
+  }
+
+  function startCell(s,venue){
+    var vc=s.venue=='home'?'venue home':'venue away';
+    var today=s.venue==venue?' today':'';
+    return '<td>'+s.opp+'('+s.wins+'W) '+s.runs+'ER <span class="'+vc+today+'">'+s.venue+'</span></td>';
+  }
+
+  function fmt(v){return v!=null?v:'—'}
+
+  // 互動
+  window.toggleSec=function(id){
+    var b=document.getElementById('body-'+id);
+    var h=document.getElementById('sec-'+id).querySelector('.sec-head');
+    b.classList.toggle('show');
+    h.classList.toggle('open');
+  };
+  window.switchTab=function(id){
+    document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('on')});
+    document.querySelector('.tab[onclick*="'+id+'"]').classList.add('on');
+    document.querySelectorAll('.sec').forEach(function(s){s.style.display='none'});
+    var sec=document.getElementById('sec-'+id);
+    if(sec)sec.style.display='block';
+  };
+
+  // 填入隊名
+  setTimeout(function(){
+    if(window.MLB_DATA){
+      var a=window.MLB_DATA.team_a,b=window.MLB_DATA.team_b;
+      var ta=document.getElementById('tab-team-a'),tb=document.getElementById('tab-team-b');
+      if(ta)ta.textContent=a.name;
+      if(tb)tb.textContent=b.name;
+    }
+  },200);
+
+  // 預設展開第一區
+  setTimeout(function(){
+    var bodies=document.querySelectorAll('.sec-body');
+    bodies.forEach(function(b,i){if(i<2)b.classList.add('show');});
+    var heads=document.querySelectorAll('.sec-head');
+    heads.forEach(function(h,i){if(i<2)h.classList.add('open');});
+  },100);
+
+  init();
+})();
+</script>
+</body>
+</html>
