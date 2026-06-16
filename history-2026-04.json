@@ -1,0 +1,4564 @@
+[
+  {
+    "date": "2026-04-23",
+    "sport": "nba",
+    "away": "魔術",
+    "home": "活塞",
+    "spread": "-9.0",
+    "spreadTeam": "home",
+    "total": "218.5",
+    "gametime": "07:05",
+    "recordAway": "47-38",
+    "recordHome": "60-23",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "83-98",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "-9.0",
+        "spreadTeam": "home",
+        "total": "218.5"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "sport": "nba",
+    "away": "太陽",
+    "home": "雷霆",
+    "spread": "-17.0",
+    "spreadTeam": "home",
+    "total": "216",
+    "gametime": "09:30",
+    "recordAway": "46-39",
+    "recordHome": "65-18",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "107-120",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "-17.0",
+        "spreadTeam": "home",
+        "total": "216"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "sport": "mlb",
+    "away": "紅雀",
+    "home": "馬林",
+    "spread": "1+52",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "00:10",
+    "recordAway": "14-9",
+    "recordHome": "11-13",
+    "pitcherAway": "萊希",
+    "pitcherAwayStats": "2-2(5.21)",
+    "pitcherHome": "將克",
+    "pitcherHomeStats": "0-2(4.50)",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "1-4",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "1+52",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "sport": "mlb",
+    "away": "紅人",
+    "home": "光芒",
+    "spread": "1+40",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "01:10",
+    "recordAway": "16-8",
+    "recordHome": "12-11",
+    "pitcherAway": "威廉姆森",
+    "pitcherAwayStats": "2-1(4.36)",
+    "pitcherHome": "馬丁尼茲",
+    "pitcherHomeStats": "0-1(2.45)",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "1-6",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "1+40",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "sport": "mlb",
+    "away": "太空",
+    "home": "守護",
+    "spread": "1+30",
+    "spreadTeam": "home",
+    "total": "8.0",
+    "gametime": "01:10",
+    "recordAway": "9-16",
+    "recordHome": "14-11",
+    "pitcherAway": "藍伯特",
+    "pitcherAwayStats": "0-1(7.20)",
+    "pitcherHome": "畢比",
+    "pitcherHomeStats": "0-2(4.81)",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "2-0",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "1+30",
+        "spreadTeam": "home",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "sport": "mlb",
+    "away": "金鶯",
+    "home": "皇家",
+    "spread": "1+50",
+    "spreadTeam": "home",
+    "total": "9.5",
+    "gametime": "02:10",
+    "recordAway": "11-13",
+    "recordHome": "8-16",
+    "pitcherAway": "巴希特",
+    "pitcherAwayStats": "0-2(6.19)",
+    "pitcherHome": "瓦卡",
+    "pitcherHomeStats": "2-0(1.00)",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "8-6",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "1+50",
+        "spreadTeam": "home",
+        "total": "9.5"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "sport": "mlb",
+    "away": "藍鳥",
+    "home": "天使",
+    "spread": "1平",
+    "spreadTeam": "home",
+    "total": "8.0",
+    "gametime": "03:07",
+    "recordAway": "10-13",
+    "recordHome": "11-14",
+    "pitcherAway": "勞爾",
+    "pitcherAwayStats": "1-3(7.13)",
+    "pitcherHome": "索里亞諾",
+    "pitcherHomeStats": "5-0(0.28)",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "3-7",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "1平",
+        "spreadTeam": "home",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "sport": "mlb",
+    "away": "運動",
+    "home": "水手",
+    "spread": "1-56",
+    "spreadTeam": "home",
+    "total": "7.5",
+    "gametime": "04:10",
+    "recordAway": "13-11",
+    "recordHome": "10-15",
+    "pitcherAway": "西瓦爾",
+    "pitcherAwayStats": "2-1(3.54)",
+    "pitcherHome": "吉伯特",
+    "pitcherHomeStats": "1-3(4.03)",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "4-5",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "1-56",
+        "spreadTeam": "home",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "sport": "mlb",
+    "away": "釀酒",
+    "home": "老虎",
+    "spread": "1+44",
+    "spreadTeam": "home",
+    "total": "8.0",
+    "gametime": "06:40",
+    "recordAway": "13-9",
+    "recordHome": "12-12",
+    "pitcherAway": "派屈克",
+    "pitcherAwayStats": "1-0(0.95)",
+    "pitcherHome": "米茲",
+    "pitcherHomeStats": "1-1(2.78)",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "2-5",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "1+44",
+        "spreadTeam": "home",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "his230010",
+    "date": "2026-04-23",
+    "sport": "mlb",
+    "away": "勇士",
+    "home": "國民",
+    "spread": "1平",
+    "spreadTeam": "away",
+    "total": "9.0",
+    "gametime": "06:45",
+    "recordAway": "16-8",
+    "recordHome": "11-13",
+    "pitcherAway": "培瑞茲",
+    "pitcherAwayStats": "1-1(2.21)",
+    "pitcherHome": "利特爾",
+    "pitcherHomeStats": "0-2(7.11)",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "8-6",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "1+24",
+        "spreadTeam": "away",
+        "total": "9.0"
+      },
+      {
+        "time": "02:35",
+        "spread": "1平",
+        "spreadTeam": "away",
+        "total": "9.0"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "sport": "mlb",
+    "away": "洋基",
+    "home": "紅襪",
+    "spread": "1+30",
+    "spreadTeam": "away",
+    "total": "7.5",
+    "gametime": "06:45",
+    "recordAway": "14-9",
+    "recordHome": "9-14",
+    "pitcherAway": "弗萊德",
+    "pitcherAwayStats": "2-1(2.97)",
+    "pitcherHome": "蘇亞雷斯",
+    "pitcherHomeStats": "1-1(3.22)",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "4-1",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "1+30",
+        "spreadTeam": "away",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "sport": "mlb",
+    "away": "雙城",
+    "home": "大都",
+    "spread": "1-08",
+    "spreadTeam": "home",
+    "total": "8.0",
+    "gametime": "07:10",
+    "recordAway": "12-11",
+    "recordHome": "7-16",
+    "pitcherAway": "普里利普",
+    "pitcherAwayStats": "- - - -",
+    "pitcherHome": "霍姆斯",
+    "pitcherHomeStats": "7-16",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "2-3",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "1-08",
+        "spreadTeam": "home",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "sport": "mlb",
+    "away": "費城",
+    "home": "小熊",
+    "spread": "1-28",
+    "spreadTeam": "home",
+    "total": "8.0",
+    "gametime": "07:40",
+    "recordAway": "8-15",
+    "recordHome": "14-9",
+    "pitcherAway": "巴克胡斯",
+    "pitcherAwayStats": "0-0(5.41)",
+    "pitcherHome": "波伊德",
+    "pitcherHomeStats": "1-1(6.75)",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "2-7",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "1-28",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "02:15",
+        "spread": "1-28",
+        "spreadTeam": "home",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "sport": "mlb",
+    "away": "海盜",
+    "home": "騎兵",
+    "spread": "PK",
+    "spreadTeam": "away",
+    "total": "8.0",
+    "gametime": "08:05",
+    "recordAway": "13-10",
+    "recordHome": "12-11",
+    "pitcherAway": "阿什克拉夫特",
+    "pitcherAwayStats": "1-1(2.38)",
+    "pitcherHome": "萊特",
+    "pitcherHomeStats": "1-1(4.87)",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "8-4",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "PK",
+        "spreadTeam": "away",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "sport": "mlb",
+    "away": "教士",
+    "home": "落磯",
+    "spread": "1平",
+    "spreadTeam": "away",
+    "total": "12.0",
+    "gametime": "08:40",
+    "recordAway": "16-7",
+    "recordHome": "9-15",
+    "pitcherAway": "布勒",
+    "pitcherAwayStats": "1-1(4.58)",
+    "pitcherHome": "菅野智之",
+    "pitcherHomeStats": "1-1(3.92)",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "3-8",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "1平",
+        "spreadTeam": "away",
+        "total": "12.0"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "sport": "mlb",
+    "away": "白襪",
+    "home": "響蛇",
+    "spread": "1平",
+    "spreadTeam": "home",
+    "total": "9.0",
+    "gametime": "09:40",
+    "recordAway": "9-14",
+    "recordHome": "13-10",
+    "pitcherAway": "凱伊",
+    "pitcherAwayStats": "1-0(2.60)",
+    "pitcherHome": "羅德里格斯",
+    "pitcherHomeStats": "1-0(1.96)",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "7-11",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "1平",
+        "spreadTeam": "home",
+        "total": "9.0"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-23",
+    "sport": "mlb",
+    "away": "道奇",
+    "home": "巨人",
+    "spread": "2+94",
+    "spreadTeam": "away",
+    "total": "8.0",
+    "gametime": "09:45",
+    "recordAway": "16-7",
+    "recordHome": "10-13",
+    "pitcherAway": "大谷翔平",
+    "pitcherAwayStats": "2-0(0.50)",
+    "pitcherHome": "梅荷",
+    "pitcherHomeStats": "0-3(7.23)",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "0-3",
+    "oddsHistory": [
+      {
+        "time": "02:06",
+        "spread": "2+94",
+        "spreadTeam": "away",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mob1eyjo",
+    "date": "2026-04-24",
+    "sport": "nba",
+    "away": "尼克",
+    "home": "老鷹",
+    "spread": "-1.5",
+    "spreadTeam": "away",
+    "total": "216",
+    "gametime": "07:05",
+    "recordAway": "54-30",
+    "recordHome": "47-37",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "108-109",
+    "oddsHistory": [
+      {
+        "time": "13:41",
+        "spread": "-1.5",
+        "spreadTeam": "away",
+        "total": "216"
+      }
+    ]
+  },
+  {
+    "gameId": "mob1fos8",
+    "date": "2026-04-24",
+    "sport": "nba",
+    "away": "騎士",
+    "home": "暴龍",
+    "spread": "-3.5",
+    "spreadTeam": "away",
+    "total": "221.5",
+    "gametime": "08:05",
+    "recordAway": "54-30",
+    "recordHome": "46-38",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "104-126",
+    "oddsHistory": [
+      {
+        "time": "13:41",
+        "spread": "-3.5",
+        "spreadTeam": "away",
+        "total": "219"
+      },
+      {
+        "time": "21:48",
+        "spread": "-3.5",
+        "spreadTeam": "away",
+        "total": "221.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mob1gz85",
+    "date": "2026-04-24",
+    "sport": "nba",
+    "away": "金塊",
+    "home": "灰狼",
+    "spread": "-2.0",
+    "spreadTeam": "away",
+    "total": "234",
+    "gametime": "09:35",
+    "recordAway": "55-29",
+    "recordHome": "50-34",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "96-113",
+    "oddsHistory": [
+      {
+        "time": "13:41",
+        "spread": "-2.0",
+        "spreadTeam": "away",
+        "total": "234"
+      }
+    ]
+  },
+  {
+    "gameId": "mob1k2aa",
+    "date": "2026-04-24",
+    "sport": "mlb",
+    "away": "勇士",
+    "home": "國民",
+    "spread": "1+42",
+    "spreadTeam": "away",
+    "total": "9.0",
+    "gametime": "01:05",
+    "recordAway": "17-8",
+    "recordHome": "11-14",
+    "pitcherAway": "里奇",
+    "pitcherAwayStats": "- - - -",
+    "pitcherHome": "卡瓦利",
+    "pitcherHomeStats": "0-1(4.12)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連敗",
+    "score": "7-2",
+    "oddsHistory": [
+      {
+        "time": "19:42",
+        "spread": "1+42",
+        "spreadTeam": "away",
+        "total": "9.5"
+      },
+      {
+        "time": "23:36",
+        "spread": "1+42",
+        "spreadTeam": "away",
+        "total": "9.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mob1muup",
+    "date": "2026-04-24",
+    "sport": "mlb",
+    "away": "釀酒",
+    "home": "老虎",
+    "spread": "1-90",
+    "spreadTeam": "home",
+    "total": "7.0",
+    "gametime": "01:10",
+    "recordAway": "13-10",
+    "recordHome": "13-12",
+    "pitcherAway": "史普羅特",
+    "pitcherAwayStats": "0-1(6.88)",
+    "pitcherHome": "斯庫巴爾",
+    "pitcherHomeStats": "3-2(2.08)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "4-5",
+    "oddsHistory": [
+      {
+        "time": "13:41",
+        "spread": "2+72",
+        "spreadTeam": "home",
+        "total": "7.0"
+      },
+      {
+        "time": "21:48",
+        "spread": "2+54",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "22:47",
+        "spread": "2+76",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "23:36",
+        "spread": "1-90",
+        "spreadTeam": "home",
+        "total": "7.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mob1oshs",
+    "date": "2026-04-24",
+    "sport": "mlb",
+    "away": "費城",
+    "home": "小熊",
+    "spread": "1+70",
+    "spreadTeam": "away",
+    "total": "9.0",
+    "gametime": "02:20",
+    "recordAway": "8-16",
+    "recordHome": "15-9",
+    "pitcherAway": "桑其士",
+    "pitcherAwayStats": "2-2(1.59)",
+    "pitcherHome": "卡布瑞拉",
+    "pitcherHomeStats": "2-0(2.38)",
+    "streakLabelAway": "8連敗",
+    "streakLabelHome": "8連勝",
+    "score": "7-8",
+    "oddsHistory": [
+      {
+        "time": "13:41",
+        "spread": "1+60",
+        "spreadTeam": "away",
+        "total": "尚未開盤"
+      },
+      {
+        "time": "19:42",
+        "spread": "1+60",
+        "spreadTeam": "away",
+        "total": "8.5"
+      },
+      {
+        "time": "21:48",
+        "spread": "1+70",
+        "spreadTeam": "away",
+        "total": "9.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mob1rzt8",
+    "date": "2026-04-24",
+    "sport": "mlb",
+    "away": "白襪",
+    "home": "響蛇",
+    "spread": "1平",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "03:40",
+    "recordAway": "9-15",
+    "recordHome": "14-10",
+    "pitcherAway": "馬汀",
+    "pitcherAwayStats": "3-1(2.16)",
+    "pitcherHome": "索羅卡",
+    "pitcherHomeStats": "4-0(2.78)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "4-1",
+    "oddsHistory": [
+      {
+        "time": "13:41",
+        "spread": "1平",
+        "spreadTeam": "home",
+        "total": "9.0"
+      },
+      {
+        "time": "21:48",
+        "spread": "1平",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mob1tmp5",
+    "date": "2026-04-24",
+    "sport": "mlb",
+    "away": "道奇",
+    "home": "巨人",
+    "spread": "1-18",
+    "spreadTeam": "away",
+    "total": "7.5",
+    "gametime": "03:45",
+    "recordAway": "16-8",
+    "recordHome": "11-13",
+    "pitcherAway": "葛拉斯諾",
+    "pitcherAwayStats": "2-0(3.24)",
+    "pitcherHome": "韋伯",
+    "pitcherHomeStats": "2-2(5.10)",
+    "streakLabelAway": "2連敗",
+    "streakLabelHome": "2連勝",
+    "score": "3-0",
+    "oddsHistory": [
+      {
+        "time": "13:41",
+        "spread": "1平",
+        "spreadTeam": "away",
+        "total": "7.0"
+      },
+      {
+        "time": "21:48",
+        "spread": "1-08",
+        "spreadTeam": "away",
+        "total": "7.5"
+      },
+      {
+        "time": "22:07",
+        "spread": "1-18",
+        "spreadTeam": "away",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mob1viuz",
+    "date": "2026-04-24",
+    "sport": "mlb",
+    "away": "洋基",
+    "home": "紅襪",
+    "spread": "1+26",
+    "spreadTeam": "away",
+    "total": "8.0",
+    "gametime": "06:10",
+    "recordAway": "15-9",
+    "recordHome": "9-15",
+    "pitcherAway": "施利特勒",
+    "pitcherAwayStats": "2-1(1.95)",
+    "pitcherHome": "貝羅",
+    "pitcherHomeStats": "1-2(6.75)",
+    "streakLabelAway": "5連勝",
+    "streakLabelHome": "2連敗",
+    "score": "4-2",
+    "oddsHistory": [
+      {
+        "time": "13:41",
+        "spread": "1平",
+        "spreadTeam": "away",
+        "total": "8.5"
+      },
+      {
+        "time": "21:48",
+        "spread": "1+14",
+        "spreadTeam": "away",
+        "total": "8.0"
+      },
+      {
+        "time": "22:47",
+        "spread": "1+32",
+        "spreadTeam": "away",
+        "total": "8.0"
+      },
+      {
+        "time": "23:36",
+        "spread": "1+26",
+        "spreadTeam": "away",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mob1wt7c",
+    "date": "2026-04-24",
+    "sport": "mlb",
+    "away": "雙城",
+    "home": "大都",
+    "spread": "1+92",
+    "spreadTeam": "away",
+    "total": "7.5",
+    "gametime": "07:10",
+    "recordAway": "12-12",
+    "recordHome": "8-16",
+    "pitcherAway": "萊恩",
+    "pitcherAwayStats": "2-2(3.29)",
+    "pitcherHome": "史考特",
+    "pitcherHomeStats": "- - - -",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "8-10",
+    "oddsHistory": [
+      {
+        "time": "13:41",
+        "spread": "1+68",
+        "spreadTeam": "away",
+        "total": "7.5"
+      },
+      {
+        "time": "19:44",
+        "spread": "1+88",
+        "spreadTeam": "away",
+        "total": "7.5"
+      },
+      {
+        "time": "21:48",
+        "spread": "1+84",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "22:47",
+        "spread": "1+92",
+        "spreadTeam": "away",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mob1y9in",
+    "date": "2026-04-24",
+    "sport": "mlb",
+    "away": "海盜",
+    "home": "騎兵",
+    "spread": "1平",
+    "spreadTeam": "home",
+    "total": "8.0",
+    "gametime": "08:05",
+    "recordAway": "14-10",
+    "recordHome": "12-12",
+    "pitcherAway": "錢德勒",
+    "pitcherAwayStats": "1-1(3.15)",
+    "pitcherHome": "迪葛羅",
+    "pitcherHomeStats": "1-0(2.29)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連敗",
+    "score": "1-6",
+    "oddsHistory": [
+      {
+        "time": "13:41",
+        "spread": "1-08",
+        "spreadTeam": "home",
+        "total": "8.0"
+      },
+      {
+        "time": "22:07",
+        "spread": "1平",
+        "spreadTeam": "home",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mob20fjp",
+    "date": "2026-04-24",
+    "sport": "mlb",
+    "away": "教士",
+    "home": "落磯",
+    "spread": "1平",
+    "spreadTeam": "away",
+    "total": "11.0",
+    "gametime": "03:10",
+    "recordAway": "16-8",
+    "recordHome": "10-15",
+    "pitcherAway": "沃德隆",
+    "pitcherAwayStats": "0-1(14.71)",
+    "pitcherHome": "費爾特納",
+    "pitcherHomeStats": "1-1(6.00)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "10-8",
+    "oddsHistory": [
+      {
+        "time": "19:05",
+        "spread": "1平",
+        "spreadTeam": "away",
+        "total": "11.0"
+      },
+      {
+        "time": "21:48",
+        "spread": "1+16",
+        "spreadTeam": "away",
+        "total": "11.5"
+      },
+      {
+        "time": "23:36",
+        "spread": "1+16",
+        "spreadTeam": "away",
+        "total": "11.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mocgfuh1",
+    "date": "2026-04-25",
+    "sport": "nba",
+    "away": "塞爾",
+    "home": "七六",
+    "spread": "-7.0",
+    "spreadTeam": "away",
+    "total": "216",
+    "gametime": "07:05",
+    "recordAway": "57-27",
+    "recordHome": "47-38",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "108-100",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "-7.0",
+        "spreadTeam": "away",
+        "total": "216"
+      }
+    ]
+  },
+  {
+    "gameId": "mocggoz5",
+    "date": "2026-04-25",
+    "sport": "nba",
+    "away": "湖人",
+    "home": "火箭",
+    "spread": "-9.0",
+    "spreadTeam": "home",
+    "total": "207",
+    "gametime": "08:05",
+    "recordAway": "55-29",
+    "recordHome": "52-32",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "112-108",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "-9.0",
+        "spreadTeam": "home",
+        "total": "207"
+      }
+    ]
+  },
+  {
+    "gameId": "mocghfq0",
+    "date": "2026-04-25",
+    "sport": "nba",
+    "away": "馬刺",
+    "home": "拓荒",
+    "spread": "-2.5",
+    "spreadTeam": "away",
+    "total": "219.5",
+    "gametime": "10:30",
+    "recordAway": "63-21",
+    "recordHome": "44-41",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "120-108",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "-2.0",
+        "spreadTeam": "away",
+        "total": "220.5"
+      },
+      {
+        "time": "21:00",
+        "spread": "-2.5",
+        "spreadTeam": "away",
+        "total": "220.5"
+      },
+      {
+        "time": "23:01",
+        "spread": "-2.5",
+        "spreadTeam": "away",
+        "total": "219.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mocgl8na",
+    "date": "2026-04-25",
+    "sport": "mlb",
+    "away": "老虎",
+    "home": "紅人",
+    "spread": "1+48",
+    "spreadTeam": "away",
+    "total": "8.5",
+    "gametime": "06:40",
+    "recordAway": "14-12",
+    "recordHome": "16-9",
+    "pitcherAway": "瓦德茲",
+    "pitcherAwayStats": "2-1(3.30)",
+    "pitcherHome": "艾伯特",
+    "pitcherHomeStats": "0-2(5.84)",
+    "streakLabelAway": "2連勝",
+    "streakLabelHome": "1連敗",
+    "score": "8-9",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "1+48",
+        "spreadTeam": "away",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mocgmyby",
+    "date": "2026-04-25",
+    "sport": "mlb",
+    "away": "紅襪",
+    "home": "金鶯",
+    "spread": "1+76",
+    "spreadTeam": "home",
+    "total": "9.0",
+    "gametime": "07:05",
+    "recordAway": "9-16",
+    "recordHome": "12-13",
+    "pitcherAway": "貝羅",
+    "pitcherAwayStats": "1-2(6.75)",
+    "pitcherHome": "楊恩",
+    "pitcherHomeStats": "1-0(0.00)",
+    "streakLabelAway": "3連敗",
+    "streakLabelHome": "1連勝",
+    "score": "3-10",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "1+68",
+        "spreadTeam": "home",
+        "total": "9.0"
+      },
+      {
+        "time": "21:00",
+        "spread": "1+76",
+        "spreadTeam": "home",
+        "total": "9.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mocgox0i",
+    "date": "2026-04-25",
+    "sport": "mlb",
+    "away": "守護",
+    "home": "藍鳥",
+    "spread": "1+52",
+    "spreadTeam": "away",
+    "total": "8.5",
+    "gametime": "07:07",
+    "recordAway": "14-12",
+    "recordHome": "10-14",
+    "pitcherAway": "威廉姆斯",
+    "pitcherAwayStats": "3-1(2.12)",
+    "pitcherHome": "薛茲爾",
+    "pitcherHomeStats": "1-2(7.16)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連敗",
+    "score": "8-6",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "1+60",
+        "spreadTeam": "away",
+        "total": "8.0"
+      },
+      {
+        "time": "21:00",
+        "spread": "1+52",
+        "spreadTeam": "away",
+        "total": "8.0"
+      },
+      {
+        "time": "23:01",
+        "spread": "1+52",
+        "spreadTeam": "away",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mocgqtct",
+    "date": "2026-04-25",
+    "sport": "mlb",
+    "away": "雙城",
+    "home": "光芒",
+    "spread": "1+54",
+    "spreadTeam": "home",
+    "total": "7.5",
+    "gametime": "07:10",
+    "recordAway": "12-13",
+    "recordHome": "13-11",
+    "pitcherAway": "布萊德利",
+    "pitcherAwayStats": "3-0(1.63)",
+    "pitcherHome": "拉斯穆森",
+    "pitcherHomeStats": "1-0(2.75)",
+    "streakLabelAway": "2連敗",
+    "streakLabelHome": "1連勝",
+    "score": "2-6",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "1+60",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "21:00",
+        "spread": "1+68",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "23:01",
+        "spread": "1+54",
+        "spreadTeam": "home",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mocgswaw",
+    "date": "2026-04-25",
+    "sport": "mlb",
+    "away": "落磯",
+    "home": "大都",
+    "spread": "2+74",
+    "spreadTeam": "home",
+    "total": "7.5",
+    "gametime": "07:10",
+    "recordAway": "10-16",
+    "recordHome": "9-16",
+    "pitcherAway": "羅倫森",
+    "pitcherAwayStats": "1-2(7.48)",
+    "pitcherHome": "佩拉塔",
+    "pitcherHomeStats": "1-2(4.05)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "2連勝",
+    "score": "4-3",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "2+66",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "21:00",
+        "spread": "2+54",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "23:01",
+        "spread": "2+74",
+        "spreadTeam": "home",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mocgvqr8",
+    "date": "2026-04-25",
+    "sport": "mlb",
+    "away": "費城",
+    "home": "勇士",
+    "spread": "1+20",
+    "spreadTeam": "home",
+    "total": "9.5",
+    "gametime": "07:15",
+    "recordAway": "8-17",
+    "recordHome": "18-8",
+    "pitcherAway": "佩恩特",
+    "pitcherAwayStats": "1-1(4.42)",
+    "pitcherHome": "霍姆斯",
+    "pitcherHomeStats": "1-1(3.42)",
+    "streakLabelAway": "9連敗",
+    "streakLabelHome": "2連勝",
+    "score": "3-5",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "1+24",
+        "spreadTeam": "home",
+        "total": "9.0"
+      },
+      {
+        "time": "21:00",
+        "spread": "1+20",
+        "spreadTeam": "home",
+        "total": "9.0"
+      },
+      {
+        "time": "23:01",
+        "spread": "1+20",
+        "spreadTeam": "home",
+        "total": "9.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mocgxxhk",
+    "date": "2026-04-25",
+    "sport": "mlb",
+    "away": "天使",
+    "home": "皇家",
+    "spread": "1+80",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "07:40",
+    "recordAway": "12-14",
+    "recordHome": "8-17",
+    "pitcherAway": "菊池雄星",
+    "pitcherAwayStats": "0-2(5.63)",
+    "pitcherHome": "卡麥隆",
+    "pitcherHomeStats": "1-1(5.40)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連敗",
+    "score": "3-6",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "1+84",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "21:00",
+        "spread": "1+80",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mocgzn04",
+    "date": "2026-04-25",
+    "sport": "mlb",
+    "away": "國民",
+    "home": "白襪",
+    "spread": "1+60",
+    "spreadTeam": "home",
+    "total": "9.5",
+    "gametime": "07:40",
+    "recordAway": "11-15",
+    "recordHome": "10-15",
+    "pitcherAway": "麥柯拉斯",
+    "pitcherAwayStats": "0-3(9.15)",
+    "pitcherHome": "哈德森",
+    "pitcherHomeStats": "0-0(1.69)",
+    "streakLabelAway": "2連敗",
+    "streakLabelHome": "1連勝",
+    "score": "4-5",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "1+60",
+        "spreadTeam": "home",
+        "total": "9.5"
+      }
+    ]
+  },
+  {
+    "gameId": "moch1ctz",
+    "date": "2026-04-25",
+    "sport": "mlb",
+    "away": "海盜",
+    "home": "釀酒",
+    "spread": "1+56",
+    "spreadTeam": "away",
+    "total": "7.0",
+    "gametime": "07:40",
+    "recordAway": "14-11",
+    "recordHome": "13-11",
+    "pitcherAway": "斯克內斯",
+    "pitcherAwayStats": "3-1(3.27)",
+    "pitcherHome": "伍德魯夫",
+    "pitcherHomeStats": "2-0(3.42)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "2連敗",
+    "score": "6-0",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "1+38",
+        "spreadTeam": "away",
+        "total": "7.0"
+      },
+      {
+        "time": "21:00",
+        "spread": "1+44",
+        "spreadTeam": "away",
+        "total": "7.0"
+      },
+      {
+        "time": "23:01",
+        "spread": "1+56",
+        "spreadTeam": "away",
+        "total": "7.0"
+      }
+    ]
+  },
+  {
+    "gameId": "moch3gi6",
+    "date": "2026-04-25",
+    "sport": "mlb",
+    "away": "運動",
+    "home": "騎兵",
+    "spread": "1+22",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "08:05",
+    "recordAway": "13-12",
+    "recordHome": "13-12",
+    "pitcherAway": "塞維里諾",
+    "pitcherAwayStats": "0-2(6.20)",
+    "pitcherHome": "伊歐沃蒂",
+    "pitcherHomeStats": "2-3(5.06)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "8-1",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "1+04",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "21:00",
+        "spread": "1+18",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "23:01",
+        "spread": "1+22",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "moch55j8",
+    "date": "2026-04-25",
+    "sport": "mlb",
+    "away": "洋基",
+    "home": "太空",
+    "spread": "1平",
+    "spreadTeam": "away",
+    "total": "9.0",
+    "gametime": "08:10",
+    "recordAway": "16-9",
+    "recordHome": "10-16",
+    "pitcherAway": "華倫",
+    "pitcherAwayStats": "2-0(2.49)",
+    "pitcherHome": "麥庫勒斯",
+    "pitcherHomeStats": "1-1(6.20)",
+    "streakLabelAway": "6連勝",
+    "streakLabelHome": "1連勝",
+    "score": "12-4",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "1+14",
+        "spreadTeam": "away",
+        "total": "9.0"
+      },
+      {
+        "time": "21:00",
+        "spread": "1+20",
+        "spreadTeam": "away",
+        "total": "9.0"
+      },
+      {
+        "time": "23:01",
+        "spread": "1+16",
+        "spreadTeam": "away",
+        "total": "9.0"
+      }
+    ]
+  },
+  {
+    "gameId": "moch6p9l",
+    "date": "2026-04-25",
+    "sport": "mlb",
+    "away": "水手",
+    "home": "紅雀",
+    "spread": "1平",
+    "spreadTeam": "away",
+    "total": "8.0",
+    "gametime": "08:15",
+    "recordAway": "11-15",
+    "recordHome": "14-10",
+    "pitcherAway": "柯比",
+    "pitcherAwayStats": "3-2(2.97)",
+    "pitcherHome": "帕蘭特",
+    "pitcherHomeStats": "2-1(4.05)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連敗",
+    "score": "3-2",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "1-14",
+        "spreadTeam": "away",
+        "total": "8.0"
+      },
+      {
+        "time": "21:00",
+        "spread": "1+04",
+        "spreadTeam": "away",
+        "total": "8.0"
+      },
+      {
+        "time": "23:01",
+        "spread": "1+14",
+        "spreadTeam": "away",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "moch8ea0",
+    "date": "2026-04-25",
+    "sport": "mlb",
+    "away": "小熊",
+    "home": "道奇",
+    "spread": "1-10",
+    "spreadTeam": "home",
+    "total": "9.0",
+    "gametime": "10:15",
+    "recordAway": "16-9",
+    "recordHome": "17-8",
+    "pitcherAway": "泰隆",
+    "pitcherAwayStats": "1-1(3.97)",
+    "pitcherHome": "希漢",
+    "pitcherHomeStats": "2-0(5.85)",
+    "streakLabelAway": "9連勝",
+    "streakLabelHome": "1連勝",
+    "score": "6-4",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "1-10",
+        "spreadTeam": "home",
+        "total": "9.5"
+      },
+      {
+        "time": "21:00",
+        "spread": "1-18",
+        "spreadTeam": "home",
+        "total": "9.5"
+      },
+      {
+        "time": "23:01",
+        "spread": "1-10",
+        "spreadTeam": "home",
+        "total": "9.0"
+      }
+    ]
+  },
+  {
+    "gameId": "moch9yj4",
+    "date": "2026-04-25",
+    "sport": "mlb",
+    "away": "馬林",
+    "home": "巨人",
+    "spread": "PK",
+    "spreadTeam": "away",
+    "total": "7.5",
+    "gametime": "10:15",
+    "recordAway": "12-13",
+    "recordHome": "11-14",
+    "pitcherAway": "阿爾坎塔拉",
+    "pitcherAwayStats": "2-2(2.80)",
+    "pitcherHome": "豪澤",
+    "pitcherHomeStats": "0-2(5.40)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連敗",
+    "score": "9-4",
+    "oddsHistory": [
+      {
+        "time": "13:37",
+        "spread": "1+74",
+        "spreadTeam": "away",
+        "total": "7.5"
+      },
+      {
+        "time": "21:00",
+        "spread": "PK",
+        "spreadTeam": "away",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "modxhz1s",
+    "date": "2026-04-26",
+    "sport": "nba",
+    "away": "活塞",
+    "home": "魔術",
+    "spread": "-2.5",
+    "spreadTeam": "away",
+    "total": "215.5",
+    "gametime": "01:00",
+    "recordAway": "61-23",
+    "recordHome": "47-39",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "105-113",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "-2.5",
+        "spreadTeam": "away",
+        "total": "214.5"
+      },
+      {
+        "time": "21:52",
+        "spread": "-2.5",
+        "spreadTeam": "away",
+        "total": "215.5"
+      }
+    ]
+  },
+  {
+    "gameId": "modximic",
+    "date": "2026-04-26",
+    "sport": "nba",
+    "away": "雷霆",
+    "home": "太陽",
+    "spread": "-9.0",
+    "spreadTeam": "away",
+    "total": "213",
+    "gametime": "03:30",
+    "recordAway": "66-18",
+    "recordHome": "46-40",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "121-109",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "-9.0",
+        "spreadTeam": "away",
+        "total": "214.5"
+      },
+      {
+        "time": "21:52",
+        "spread": "-9.0",
+        "spreadTeam": "away",
+        "total": "213"
+      }
+    ]
+  },
+  {
+    "gameId": "modxjoy6",
+    "date": "2026-04-26",
+    "sport": "nba",
+    "away": "尼克",
+    "home": "老鷹",
+    "spread": "-2.0",
+    "spreadTeam": "away",
+    "total": "215.5",
+    "gametime": "06:00",
+    "recordAway": "54-31",
+    "recordHome": "48-37",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "114-98",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "-2.0",
+        "spreadTeam": "away",
+        "total": "214"
+      },
+      {
+        "time": "21:52",
+        "spread": "-2.0",
+        "spreadTeam": "away",
+        "total": "215.5"
+      }
+    ]
+  },
+  {
+    "gameId": "modxk8r8",
+    "date": "2026-04-26",
+    "sport": "nba",
+    "away": "金塊",
+    "home": "灰狼",
+    "spread": "-1.5",
+    "spreadTeam": "away",
+    "total": "229.5",
+    "gametime": "08:30",
+    "recordAway": "55-30",
+    "recordHome": "51-34",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "96-112",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "-1.5",
+        "spreadTeam": "away",
+        "total": "229.5"
+      }
+    ]
+  },
+  {
+    "gameId": "modxm8sa",
+    "date": "2026-04-26",
+    "sport": "mlb",
+    "away": "紅襪",
+    "home": "金鶯",
+    "spread": "1+74",
+    "spreadTeam": "home",
+    "total": "7.0",
+    "gametime": "00:05",
+    "recordAway": "9-17",
+    "recordHome": "13-13",
+    "pitcherAway": "克羅切特",
+    "pitcherAwayStats": "2-3(7.88)",
+    "pitcherHome": "羅傑斯",
+    "pitcherHomeStats": "2-2(4.08)",
+    "streakLabelAway": "4連敗",
+    "streakLabelHome": "2連勝",
+    "score": "17-1",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "PK",
+        "spreadTeam": "away",
+        "total": "7.5"
+      },
+      {
+        "time": "19:01",
+        "spread": "1+74",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "21:52",
+        "spread": "1+74",
+        "spreadTeam": "home",
+        "total": "7.0"
+      }
+    ]
+  },
+  {
+    "gameId": "modxnqjx",
+    "date": "2026-04-26",
+    "sport": "mlb",
+    "away": "水手",
+    "home": "紅雀",
+    "spread": "1平",
+    "spreadTeam": "away",
+    "total": "7.5",
+    "gametime": "02:15",
+    "recordAway": "12-15",
+    "recordHome": "14-11",
+    "pitcherAway": "吳",
+    "pitcherAwayStats": "1-2(2.25)",
+    "pitcherHome": "李貝雷托",
+    "pitcherHomeStats": "0-1(3.67)",
+    "streakLabelAway": "2連勝",
+    "streakLabelHome": "2連敗",
+    "score": "11-9",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "1+18",
+        "spreadTeam": "away",
+        "total": "7.5"
+      },
+      {
+        "time": "19:01",
+        "spread": "1+24",
+        "spreadTeam": "away",
+        "total": "7.5"
+      },
+      {
+        "time": "21:52",
+        "spread": "1+12",
+        "spreadTeam": "away",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "modxp1uz",
+    "date": "2026-04-26",
+    "sport": "mlb",
+    "away": "守護",
+    "home": "藍鳥",
+    "spread": "1平",
+    "spreadTeam": "home",
+    "total": "7.5",
+    "gametime": "03:07",
+    "recordAway": "15-12",
+    "recordHome": "10-15",
+    "pitcherAway": "李貝雷托",
+    "pitcherAwayStats": "1-0(3.20)",
+    "pitcherHome": "高斯曼",
+    "pitcherHomeStats": "1-1(2.86)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "2連敗",
+    "score": "3-5",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "1+22",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "21:52",
+        "spread": "1+14",
+        "spreadTeam": "home",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "modxr20y",
+    "date": "2026-04-26",
+    "sport": "mlb",
+    "away": "馬林",
+    "home": "巨人",
+    "spread": "1+74",
+    "spreadTeam": "home",
+    "total": "7.5",
+    "gametime": "04:05",
+    "recordAway": "13-13",
+    "recordHome": "11-15",
+    "pitcherAway": "培瑞茲",
+    "pitcherAwayStats": "2-1(4.15)",
+    "pitcherHome": "雷伊",
+    "pitcherHomeStats": "2-3(2.86)",
+    "streakLabelAway": "2連勝",
+    "streakLabelHome": "2連敗",
+    "score": "2-6",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "1+64",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "21:52",
+        "spread": "1+74",
+        "spreadTeam": "home",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "modxslza",
+    "date": "2026-04-26",
+    "sport": "mlb",
+    "away": "雙城",
+    "home": "光芒",
+    "spread": "1+36",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "04:10",
+    "recordAway": "12-14",
+    "recordHome": "14-11",
+    "pitcherAway": "奧伯",
+    "pitcherAwayStats": "2-0(4.15)",
+    "pitcherHome": "麥克拉納漢",
+    "pitcherHomeStats": "1-2(5.00)",
+    "streakLabelAway": "3連敗",
+    "streakLabelHome": "2連勝",
+    "score": "1-6",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "1+42",
+        "spreadTeam": "home",
+        "total": "8.0"
+      },
+      {
+        "time": "19:01",
+        "spread": "1+26",
+        "spreadTeam": "home",
+        "total": "8.0"
+      },
+      {
+        "time": "21:52",
+        "spread": "1+36",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "modxubk6",
+    "date": "2026-04-26",
+    "sport": "mlb",
+    "away": "國民",
+    "home": "白襪",
+    "spread": "1+36",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "04:10",
+    "recordAway": "11-16",
+    "recordHome": "11-15",
+    "pitcherAway": "艾文",
+    "pitcherAwayStats": "1-3(6.00)",
+    "pitcherHome": "舒爾茨",
+    "pitcherHomeStats": "1-1(3.86)",
+    "streakLabelAway": "3連敗",
+    "streakLabelHome": "2連勝",
+    "score": "6-3",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "1+28",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "21:52",
+        "spread": "1+36",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "modxvk4i",
+    "date": "2026-04-26",
+    "sport": "mlb",
+    "away": "落磯",
+    "home": "大都",
+    "spread": "1-90",
+    "spreadTeam": "home",
+    "total": "7.5",
+    "gametime": "04:10",
+    "recordAway": "11-16",
+    "recordHome": "9-17",
+    "pitcherAway": "昆特納",
+    "pitcherAwayStats": "0-2(6.23)",
+    "pitcherHome": "千賀滉大",
+    "pitcherHomeStats": "0-3(8.83)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連敗",
+    "score": "延-期",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "1-90",
+        "spreadTeam": "home",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "modxxbnk",
+    "date": "2026-04-26",
+    "sport": "mlb",
+    "away": "教士",
+    "home": "響蛇",
+    "spread": "1+70",
+    "spreadTeam": "home",
+    "total": "16.0",
+    "gametime": "06:05",
+    "recordAway": "17-8",
+    "recordHome": "14-11",
+    "pitcherAway": "馬奎茲",
+    "pitcherAwayStats": "2-1(3.86)",
+    "pitcherHome": "加倫",
+    "pitcherHomeStats": "1-1(3.51)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連敗",
+    "score": "6-4",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "1+70",
+        "spreadTeam": "home",
+        "total": "15.5"
+      },
+      {
+        "time": "19:01",
+        "spread": "1+70",
+        "spreadTeam": "home",
+        "total": "16.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mody0cl2",
+    "date": "2026-04-26",
+    "sport": "mlb",
+    "away": "運動",
+    "home": "騎兵",
+    "spread": "1+52",
+    "spreadTeam": "home",
+    "total": "8.0",
+    "gametime": "07:05",
+    "recordAway": "14-12",
+    "recordHome": "13-13",
+    "pitcherAway": "史布林斯",
+    "pitcherAwayStats": "3-1(3.34)",
+    "pitcherHome": "戈爾",
+    "pitcherHomeStats": "2-2(4.15)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連敗",
+    "score": "3-4",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "1+32",
+        "spreadTeam": "home",
+        "total": "8.0"
+      },
+      {
+        "time": "21:52",
+        "spread": "1+52",
+        "spreadTeam": "home",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mody1nne",
+    "date": "2026-04-26",
+    "sport": "mlb",
+    "away": "天使",
+    "home": "皇家",
+    "spread": "1平",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "07:10",
+    "recordAway": "12-15",
+    "recordHome": "9-17",
+    "pitcherAway": "巫瑞納",
+    "pitcherAwayStats": "0-2(2.35)",
+    "pitcherHome": "拉根",
+    "pitcherHomeStats": "0-4(6.00)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "1-12",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "1平",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "19:01",
+        "spread": "1+06",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "21:52",
+        "spread": "1-04",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mody322k",
+    "date": "2026-04-26",
+    "sport": "mlb",
+    "away": "洋基",
+    "home": "太空",
+    "spread": "1平",
+    "spreadTeam": "away",
+    "total": "9.0",
+    "gametime": "07:10",
+    "recordAway": "17-9",
+    "recordHome": "10-17",
+    "pitcherAway": "韋勒斯",
+    "pitcherAwayStats": "1-2(3.18)",
+    "pitcherHome": "柏羅斯",
+    "pitcherHomeStats": "1-3(6.75)",
+    "streakLabelAway": "7連勝",
+    "streakLabelHome": "1連敗",
+    "score": "8-3",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "1+06",
+        "spreadTeam": "away",
+        "total": "9.0"
+      },
+      {
+        "time": "19:01",
+        "spread": "1+16",
+        "spreadTeam": "away",
+        "total": "9.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mody54zn",
+    "date": "2026-04-26",
+    "sport": "mlb",
+    "away": "海盜",
+    "home": "釀酒",
+    "spread": "1+40",
+    "spreadTeam": "home",
+    "total": "8.0",
+    "gametime": "07:10",
+    "recordAway": "15-11",
+    "recordHome": "13-12",
+    "pitcherAway": "凱勒",
+    "pitcherAwayStats": "2-1(2.79)",
+    "pitcherHome": "米西奧羅斯基",
+    "pitcherHomeStats": "1-2(3.04)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "3連敗",
+    "score": "6-3",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "1+40",
+        "spreadTeam": "home",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mody6xjc",
+    "date": "2026-04-26",
+    "sport": "mlb",
+    "away": "小熊",
+    "home": "道奇",
+    "spread": "1+26",
+    "spreadTeam": "home",
+    "total": "9.5",
+    "gametime": "07:15",
+    "recordAway": "17-9",
+    "recordHome": "17-9",
+    "pitcherAway": "瑞伊",
+    "pitcherAwayStats": "3-0(3.00)",
+    "pitcherHome": "佐佐木朗希",
+    "pitcherHomeStats": "0-2(6.11)",
+    "streakLabelAway": "10連勝",
+    "streakLabelHome": "1連敗",
+    "score": "4-12",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "1+06",
+        "spreadTeam": "home",
+        "total": "9.5"
+      },
+      {
+        "time": "19:01",
+        "spread": "1+16",
+        "spreadTeam": "home",
+        "total": "9.5"
+      },
+      {
+        "time": "21:52",
+        "spread": "1+26",
+        "spreadTeam": "home",
+        "total": "9.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mody8ft8",
+    "date": "2026-04-26",
+    "sport": "mlb",
+    "away": "費城",
+    "home": "勇士",
+    "spread": "1+60",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "07:15",
+    "recordAway": "8-18",
+    "recordHome": "19-8",
+    "pitcherAway": "惠勒",
+    "pitcherAwayStats": "- - - -",
+    "pitcherHome": "艾爾德",
+    "pitcherHomeStats": "3-1(1.50)",
+    "streakLabelAway": "10連敗",
+    "streakLabelHome": "3連勝",
+    "score": "8-5",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "1+48",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "21:52",
+        "spread": "1+60",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mody9xaq",
+    "date": "2026-04-26",
+    "sport": "mlb",
+    "away": "老虎",
+    "home": "紅人",
+    "spread": "1+88",
+    "spreadTeam": "away",
+    "total": "9.5",
+    "gametime": "07:15",
+    "recordAway": "14-13",
+    "recordHome": "17-9",
+    "pitcherAway": "弗萊賀提",
+    "pitcherAwayStats": "0-1(3.47)",
+    "pitcherHome": "辛格",
+    "pitcherHomeStats": "1-1(5.32)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "2-9",
+    "oddsHistory": [
+      {
+        "time": "14:20",
+        "spread": "PK",
+        "spreadTeam": "away",
+        "total": "9.0"
+      },
+      {
+        "time": "19:01",
+        "spread": "PK",
+        "spreadTeam": "away",
+        "total": "9.5"
+      },
+      {
+        "time": "21:52",
+        "spread": "1+88",
+        "spreadTeam": "away",
+        "total": "9.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mof9fgxf",
+    "date": "2026-04-27",
+    "sport": "nba",
+    "away": "騎士",
+    "home": "暴龍",
+    "spread": "-4.0",
+    "spreadTeam": "away",
+    "total": "219.5",
+    "gametime": "01:00",
+    "recordAway": "54-31",
+    "recordHome": "47-38",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "89-93",
+    "oddsHistory": [
+      {
+        "time": "12:23",
+        "spread": "-3.5",
+        "spreadTeam": "away",
+        "total": "220.5"
+      },
+      {
+        "time": "19:40",
+        "spread": "-4.0",
+        "spreadTeam": "away",
+        "total": "219.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mof9g5la",
+    "date": "2026-04-27",
+    "sport": "nba",
+    "away": "馬刺",
+    "home": "拓荒",
+    "spread": "-5.0",
+    "spreadTeam": "away",
+    "total": "219",
+    "gametime": "03:30",
+    "recordAway": "64-21",
+    "recordHome": "44-42",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "114-93",
+    "oddsHistory": [
+      {
+        "time": "12:23",
+        "spread": "-5.5",
+        "spreadTeam": "away",
+        "total": "219"
+      },
+      {
+        "time": "23:31",
+        "spread": "-5.0",
+        "spreadTeam": "away",
+        "total": "219"
+      }
+    ]
+  },
+  {
+    "gameId": "mof9gqym",
+    "date": "2026-04-27",
+    "sport": "nba",
+    "away": "塞爾",
+    "home": "七六",
+    "spread": "-7.5",
+    "spreadTeam": "away",
+    "total": "213.5",
+    "gametime": "07:00",
+    "recordAway": "58-27",
+    "recordHome": "47-39",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "128-96",
+    "oddsHistory": [
+      {
+        "time": "12:23",
+        "spread": "-7.0",
+        "spreadTeam": "away",
+        "total": "213.5"
+      },
+      {
+        "time": "19:40",
+        "spread": "-7.5",
+        "spreadTeam": "away",
+        "total": "213.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mof9hka5",
+    "date": "2026-04-27",
+    "sport": "nba",
+    "away": "湖人",
+    "home": "火箭",
+    "spread": "-5.0",
+    "spreadTeam": "home",
+    "total": "207.5",
+    "gametime": "09:30",
+    "recordAway": "56-29",
+    "recordHome": "52-33",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "96-115",
+    "oddsHistory": [
+      {
+        "time": "12:23",
+        "spread": "-5.0",
+        "spreadTeam": "home",
+        "total": "207.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mof9j80y",
+    "date": "2026-04-27",
+    "sport": "mlb",
+    "away": "費城",
+    "home": "勇士",
+    "spread": "2+82",
+    "spreadTeam": "home",
+    "total": "8.0",
+    "gametime": "01:35",
+    "recordAway": "9-18",
+    "recordHome": "19-9",
+    "pitcherAway": "諾拉",
+    "pitcherAwayStats": "1-2(5.06)",
+    "pitcherHome": "賽爾",
+    "pitcherHomeStats": "4-1(2.79)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連敗",
+    "score": "2-6",
+    "oddsHistory": [
+      {
+        "time": "12:23",
+        "spread": "1-18",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "19:40",
+        "spread": "1-50",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "23:31",
+        "spread": "2+82",
+        "spreadTeam": "home",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mofd4wzk",
+    "date": "2026-04-27",
+    "sport": "mlb",
+    "away": "紅襪",
+    "home": "金鶯",
+    "spread": "1+36",
+    "spreadTeam": "home",
+    "total": "7.5",
+    "gametime": "01:35",
+    "recordAway": "10-17",
+    "recordHome": "13-14",
+    "pitcherAway": "厄爾利",
+    "pitcherAwayStats": "1-1(2.88)",
+    "pitcherHome": "布拉迪什",
+    "pitcherHomeStats": "1-2(4.68)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連敗",
+    "score": "5-3",
+    "oddsHistory": [
+      {
+        "time": "14:23",
+        "spread": "1+22",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "19:40",
+        "spread": "1+18",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "23:31",
+        "spread": "1+36",
+        "spreadTeam": "home",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mofd7ilw",
+    "date": "2026-04-27",
+    "sport": "mlb",
+    "away": "守護",
+    "home": "藍鳥",
+    "spread": "1+52",
+    "spreadTeam": "home",
+    "total": "8.0",
+    "gametime": "01:37",
+    "recordAway": "15-13",
+    "recordHome": "11-15",
+    "pitcherAway": "切科尼",
+    "pitcherAwayStats": "0-3(6.20)",
+    "pitcherHome": "柯賓",
+    "pitcherHomeStats": "0-0(3.68)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "2-4",
+    "oddsHistory": [
+      {
+        "time": "14:23",
+        "spread": "1+34",
+        "spreadTeam": "home",
+        "total": "8.0"
+      },
+      {
+        "time": "23:31",
+        "spread": "1+52",
+        "spreadTeam": "home",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mofd90br",
+    "date": "2026-04-27",
+    "sport": "mlb",
+    "away": "雙城",
+    "home": "光芒",
+    "spread": "1+24",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "01:40",
+    "recordAway": "12-15",
+    "recordHome": "15-11",
+    "pitcherAway": "伍德理查森",
+    "pitcherAwayStats": "0-3(5.96)",
+    "pitcherHome": "施霍爾騰斯",
+    "pitcherHomeStats": "1-1(2.94)",
+    "streakLabelAway": "4連敗",
+    "streakLabelHome": "3連勝",
+    "score": "2-4",
+    "oddsHistory": [
+      {
+        "time": "14:23",
+        "spread": "1+38",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "19:40",
+        "spread": "1+14",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "23:31",
+        "spread": "1+24",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mofdafe9",
+    "date": "2026-04-27",
+    "sport": "mlb",
+    "away": "老虎",
+    "home": "紅人",
+    "spread": "PK",
+    "spreadTeam": "home",
+    "total": "9.0",
+    "gametime": "01:40",
+    "recordAway": "14-14",
+    "recordHome": "18-9",
+    "pitcherAway": "蒙特羅",
+    "pitcherAwayStats": "1-2(3.68)",
+    "pitcherHome": "洛德",
+    "pitcherHomeStats": "3-1(3.10)",
+    "streakLabelAway": "2連敗",
+    "streakLabelHome": "2連勝",
+    "score": "8-3",
+    "oddsHistory": [
+      {
+        "time": "14:23",
+        "spread": "PK",
+        "spreadTeam": "away",
+        "total": "9.0"
+      },
+      {
+        "time": "19:40",
+        "spread": "1+92",
+        "spreadTeam": "home",
+        "total": "9.0"
+      },
+      {
+        "time": "23:31",
+        "spread": "PK",
+        "spreadTeam": "home",
+        "total": "9.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mofdbymj",
+    "date": "2026-04-27",
+    "sport": "mlb",
+    "away": "落磯G1",
+    "home": "大都G1",
+    "spread": "2+70",
+    "spreadTeam": "home",
+    "total": "7.5",
+    "gametime": "01:40",
+    "recordAway": "11-16",
+    "recordHome": "9-17",
+    "pitcherAway": "昆特納",
+    "pitcherAwayStats": "0-2(6.23)",
+    "pitcherHome": "麥克萊恩",
+    "pitcherHomeStats": "1-1(2.67)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連敗",
+    "score": "3-1",
+    "oddsHistory": [
+      {
+        "time": "14:23",
+        "spread": "2+64",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "19:40",
+        "spread": "2+70",
+        "spreadTeam": "home",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mofddwdr",
+    "date": "2026-04-27",
+    "sport": "mlb",
+    "away": "國民",
+    "home": "白襪",
+    "spread": "1+66",
+    "spreadTeam": "home",
+    "total": "8.0",
+    "gametime": "02:10",
+    "recordAway": "12-16",
+    "recordHome": "11-16",
+    "pitcherAway": "葛瑞芬",
+    "pitcherAwayStats": "3-0(3.37)",
+    "pitcherHome": "哈德森",
+    "pitcherHomeStats": "0-0(1.54)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連敗",
+    "score": "2-1",
+    "oddsHistory": [
+      {
+        "time": "14:23",
+        "spread": "1+58",
+        "spreadTeam": "home",
+        "total": "8.0"
+      },
+      {
+        "time": "23:31",
+        "spread": "1+66",
+        "spreadTeam": "home",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mofdfg5k",
+    "date": "2026-04-27",
+    "sport": "mlb",
+    "away": "洋基",
+    "home": "太空",
+    "spread": "1+50",
+    "spreadTeam": "away",
+    "total": "9.5",
+    "gametime": "02:10",
+    "recordAway": "18-9",
+    "recordHome": "10-18",
+    "pitcherAway": "吉爾",
+    "pitcherAwayStats": "1-1(4.11)",
+    "pitcherHome": "阿里蓋蒂",
+    "pitcherHomeStats": "2-0(2.45)",
+    "streakLabelAway": "8連勝",
+    "streakLabelHome": "2連敗",
+    "score": "4-7",
+    "oddsHistory": [
+      {
+        "time": "14:23",
+        "spread": "1+34",
+        "spreadTeam": "away",
+        "total": "9.5"
+      },
+      {
+        "time": "23:31",
+        "spread": "1+50",
+        "spreadTeam": "away",
+        "total": "9.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mofdhr8t",
+    "date": "2026-04-27",
+    "sport": "mlb",
+    "away": "海盜",
+    "home": "釀酒",
+    "spread": "1+68",
+    "spreadTeam": "home",
+    "total": "7.5",
+    "gametime": "02:10",
+    "recordAway": "16-11",
+    "recordHome": "13-13",
+    "pitcherAway": "姆洛辛斯基",
+    "pitcherAwayStats": "1-1(3.28)",
+    "pitcherHome": "哈里森",
+    "pitcherHomeStats": "1-1(3.06)",
+    "streakLabelAway": "2連勝",
+    "streakLabelHome": "4連敗",
+    "score": "0-5",
+    "oddsHistory": [
+      {
+        "time": "14:23",
+        "spread": "1+52",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "23:31",
+        "spread": "1+68",
+        "spreadTeam": "home",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mofdjmsv",
+    "date": "2026-04-27",
+    "sport": "mlb",
+    "away": "水手",
+    "home": "紅雀",
+    "spread": "1+52",
+    "spreadTeam": "away",
+    "total": "8.5",
+    "gametime": "02:15",
+    "recordAway": "13-15",
+    "recordHome": "14-12",
+    "pitcherAway": "漢考克",
+    "pitcherAwayStats": "2-1(2.83)",
+    "pitcherHome": "麥格里維",
+    "pitcherHomeStats": "1-2(3.29)",
+    "streakLabelAway": "3連勝",
+    "streakLabelHome": "3連敗",
+    "score": "3-2",
+    "oddsHistory": [
+      {
+        "time": "14:23",
+        "spread": "1+20",
+        "spreadTeam": "away",
+        "total": "8.0"
+      },
+      {
+        "time": "19:40",
+        "spread": "1+46",
+        "spreadTeam": "away",
+        "total": "8.0"
+      },
+      {
+        "time": "23:31",
+        "spread": "1+52",
+        "spreadTeam": "away",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mofdlc1x",
+    "date": "2026-04-27",
+    "sport": "mlb",
+    "away": "馬林",
+    "home": "巨人",
+    "spread": "1+56",
+    "spreadTeam": "home",
+    "total": "7.5",
+    "gametime": "04:05",
+    "recordAway": "13-14",
+    "recordHome": "12-15",
+    "pitcherAway": "梅耶爾",
+    "pitcherAwayStats": "1-0(3.96)",
+    "pitcherHome": "魯普",
+    "pitcherHomeStats": "4-1(2.60)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "3-6",
+    "oddsHistory": [
+      {
+        "time": "14:23",
+        "spread": "1+48",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "19:40",
+        "spread": "1+40",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "23:31",
+        "spread": "1+56",
+        "spreadTeam": "home",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mofdmdoh",
+    "date": "2026-04-27",
+    "sport": "mlb",
+    "away": "教士",
+    "home": "響蛇",
+    "spread": "1+44",
+    "spreadTeam": "away",
+    "total": "15.0",
+    "gametime": "04:05",
+    "recordAway": "18-8",
+    "recordHome": "14-12",
+    "pitcherAway": "金恩",
+    "pitcherAwayStats": "3-1(2.28)",
+    "pitcherHome": "尼爾森",
+    "pitcherHomeStats": "1-2(6.97)",
+    "streakLabelAway": "2連勝",
+    "streakLabelHome": "2連敗",
+    "score": "7-12",
+    "oddsHistory": [
+      {
+        "time": "23:31",
+        "spread": "1+44",
+        "spreadTeam": "away",
+        "total": "15.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mofdo0u1",
+    "date": "2026-04-27",
+    "sport": "mlb",
+    "away": "小熊",
+    "home": "道奇",
+    "spread": "1+70",
+    "spreadTeam": "home",
+    "total": "9.0",
+    "gametime": "04:10",
+    "recordAway": "17-10",
+    "recordHome": "18-9",
+    "pitcherAway": "今永昇太",
+    "pitcherAwayStats": "2-1(2.17)",
+    "pitcherHome": "弗羅布萊斯基",
+    "pitcherHomeStats": "3-0(1.88)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "0-6",
+    "oddsHistory": [
+      {
+        "time": "14:23",
+        "spread": "1+50",
+        "spreadTeam": "home",
+        "total": "9.0"
+      },
+      {
+        "time": "19:40",
+        "spread": "1+50",
+        "spreadTeam": "home",
+        "total": "9.5"
+      },
+      {
+        "time": "23:31",
+        "spread": "1+70",
+        "spreadTeam": "home",
+        "total": "9.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mofdpj21",
+    "date": "2026-04-27",
+    "sport": "mlb",
+    "away": "落磯G2",
+    "home": "大都G2",
+    "spread": "1-54",
+    "spreadTeam": "home",
+    "total": "7.5",
+    "gametime": "05:10",
+    "recordAway": "11-16",
+    "recordHome": "9-17",
+    "pitcherAway": "多蘭德 ",
+    "pitcherAwayStats": "2-2(2.89)",
+    "pitcherHome": "千賀滉大",
+    "pitcherHomeStats": "0-3(8.83)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連敗",
+    "score": "3-0",
+    "oddsHistory": [
+      {
+        "time": "14:23",
+        "spread": "1-70",
+        "spreadTeam": "home",
+        "total": "8.0"
+      },
+      {
+        "time": "19:40",
+        "spread": "1-70",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "23:31",
+        "spread": "1-54",
+        "spreadTeam": "home",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mofdrhpp",
+    "date": "2026-04-27",
+    "sport": "mlb",
+    "away": "天使",
+    "home": "皇家",
+    "spread": "1+76",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "07:20",
+    "recordAway": "12-16",
+    "recordHome": "10-17",
+    "pitcherAway": "德特默斯",
+    "pitcherAwayStats": "1-2(4.08)",
+    "pitcherHome": "盧戈",
+    "pitcherHomeStats": "1-1(1.15)",
+    "streakLabelAway": "2連敗",
+    "streakLabelHome": "2連勝",
+    "score": "9-11",
+    "oddsHistory": [
+      {
+        "time": "14:23",
+        "spread": "1+64",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "23:31",
+        "spread": "1+76",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mofdttl4",
+    "date": "2026-04-27",
+    "sport": "mlb",
+    "away": "運動",
+    "home": "騎兵",
+    "spread": "1+62",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "02:35",
+    "recordAway": "14-13",
+    "recordHome": "14-13",
+    "pitcherAway": "吉恩",
+    "pitcherAwayStats": "0-0(3.74)",
+    "pitcherHome": "拉克爾",
+    "pitcherHomeStats": "1-1(3.48)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "2-1",
+    "oddsHistory": [
+      {
+        "time": "14:23",
+        "spread": "1+48",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "19:40",
+        "spread": "1+62",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mogwwl9d",
+    "date": "2026-04-28",
+    "sport": "nba",
+    "away": "活塞",
+    "home": "魔術",
+    "spread": "-2.5",
+    "spreadTeam": "away",
+    "total": "214",
+    "gametime": "08:05",
+    "recordAway": "61-24",
+    "recordHome": "48-39",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "88-94",
+    "oddsHistory": [
+      {
+        "time": "16:15",
+        "spread": "-2.5",
+        "spreadTeam": "away",
+        "total": "214"
+      }
+    ]
+  },
+  {
+    "gameId": "mogwxfz3",
+    "date": "2026-04-28",
+    "sport": "nba",
+    "away": "雷霆",
+    "home": "太陽",
+    "spread": "-10.5",
+    "spreadTeam": "away",
+    "total": "213.5",
+    "gametime": "09:35",
+    "recordAway": "67-18",
+    "recordHome": "46-41",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "131-122",
+    "oddsHistory": [
+      {
+        "time": "16:15",
+        "spread": "-10.5",
+        "spreadTeam": "away",
+        "total": "213.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mogwy1m9",
+    "date": "2026-04-28",
+    "sport": "nba",
+    "away": "灰狼",
+    "home": "金塊",
+    "spread": "-11.0",
+    "spreadTeam": "home",
+    "total": "222",
+    "gametime": "10:35",
+    "recordAway": "52-34",
+    "recordHome": "55-31",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "113-125",
+    "oddsHistory": [
+      {
+        "time": "16:15",
+        "spread": "-11.0",
+        "spreadTeam": "home",
+        "total": "222"
+      }
+    ]
+  },
+  {
+    "gameId": "mogx022n",
+    "date": "2026-04-28",
+    "sport": "mlb",
+    "away": "光芒",
+    "home": "守護",
+    "spread": "1+34",
+    "spreadTeam": "home",
+    "total": "8.0",
+    "gametime": "06:10",
+    "recordAway": "16-11",
+    "recordHome": "15-14",
+    "pitcherAway": "馬茲",
+    "pitcherAwayStats": "3-1(4.81)",
+    "pitcherHome": "梅西克",
+    "pitcherHomeStats": "3-0(1.76)",
+    "streakLabelAway": "4連勝",
+    "streakLabelHome": "2連敗",
+    "score": "3-2",
+    "oddsHistory": [
+      {
+        "time": "16:15",
+        "spread": "1+26",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "20:18",
+        "spread": "1+34",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "22:58",
+        "spread": "1+34",
+        "spreadTeam": "home",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mogx1kal",
+    "date": "2026-04-28",
+    "sport": "mlb",
+    "away": "紅雀",
+    "home": "海盜",
+    "spread": "1+44",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "06:40",
+    "recordAway": "14-13",
+    "recordHome": "16-12",
+    "pitcherAway": "梅伊",
+    "pitcherAwayStats": "3-2(5.84)",
+    "pitcherHome": "蒙哥馬利",
+    "pitcherHomeStats": "1-0(3.97)",
+    "streakLabelAway": "4連敗",
+    "streakLabelHome": "1連敗",
+    "score": "4-2",
+    "oddsHistory": [
+      {
+        "time": "16:15",
+        "spread": "1+38",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "22:58",
+        "spread": "1+44",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mogx2re1",
+    "date": "2026-04-28",
+    "sport": "mlb",
+    "away": "紅襪",
+    "home": "藍鳥",
+    "spread": "1+34",
+    "spreadTeam": "home",
+    "total": "7.0",
+    "gametime": "07:07",
+    "recordAway": "11-17",
+    "recordHome": "12-15",
+    "pitcherAway": "蘇亞雷斯",
+    "pitcherAwayStats": "1-2(4.00)",
+    "pitcherHome": "希斯",
+    "pitcherHomeStats": "1-0(2.10)",
+    "streakLabelAway": "2連勝",
+    "streakLabelHome": "2連勝",
+    "score": "5-0",
+    "oddsHistory": [
+      {
+        "time": "16:15",
+        "spread": "1+18",
+        "spreadTeam": "home",
+        "total": "7.0"
+      },
+      {
+        "time": "20:18",
+        "spread": "1+22",
+        "spreadTeam": "home",
+        "total": "7.0"
+      },
+      {
+        "time": "22:58",
+        "spread": "1+34",
+        "spreadTeam": "home",
+        "total": "7.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mogx40c1",
+    "date": "2026-04-28",
+    "sport": "mlb",
+    "away": "水手",
+    "home": "雙城",
+    "spread": "1+50",
+    "spreadTeam": "away",
+    "total": "9.0",
+    "gametime": "07:40",
+    "recordAway": "14-15",
+    "recordHome": "12-16",
+    "pitcherAway": "卡斯提羅",
+    "pitcherAwayStats": "0-1(5.02)",
+    "pitcherHome": "普里利普",
+    "pitcherHomeStats": "0-0(4.50)",
+    "streakLabelAway": "4連勝",
+    "streakLabelHome": "5連敗",
+    "score": "4-11",
+    "oddsHistory": [
+      {
+        "time": "16:15",
+        "spread": "1+28",
+        "spreadTeam": "away",
+        "total": "8.5"
+      },
+      {
+        "time": "20:18",
+        "spread": "1+38",
+        "spreadTeam": "away",
+        "total": "8.5"
+      },
+      {
+        "time": "22:58",
+        "spread": "1+50",
+        "spreadTeam": "away",
+        "total": "9.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mogx5di1",
+    "date": "2026-04-28",
+    "sport": "mlb",
+    "away": "天使",
+    "home": "白襪",
+    "spread": "1+82",
+    "spreadTeam": "away",
+    "total": "9.0",
+    "gametime": "07:40",
+    "recordAway": "12-17",
+    "recordHome": "11-17",
+    "pitcherAway": "科恰諾維奇",
+    "pitcherAwayStats": "2-0(3.10)",
+    "pitcherHome": "凱伊",
+    "pitcherHomeStats": "1-1(5.57)",
+    "streakLabelAway": "3連敗",
+    "streakLabelHome": "2連敗",
+    "score": "7-8",
+    "oddsHistory": [
+      {
+        "time": "16:15",
+        "spread": "1+74",
+        "spreadTeam": "away",
+        "total": "9.0"
+      },
+      {
+        "time": "22:58",
+        "spread": "1+82",
+        "spreadTeam": "away",
+        "total": "9.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mogx72uf",
+    "date": "2026-04-28",
+    "sport": "mlb",
+    "away": "洋基",
+    "home": "騎兵",
+    "spread": "1-12",
+    "spreadTeam": "away",
+    "total": "8.0",
+    "gametime": "08:05",
+    "recordAway": "18-10",
+    "recordHome": "14-14",
+    "pitcherAway": "弗萊德",
+    "pitcherAwayStats": "3-1(2.40)",
+    "pitcherHome": "萊特",
+    "pitcherHomeStats": "1-1(4.97)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連敗",
+    "score": "4-2",
+    "oddsHistory": [
+      {
+        "time": "16:15",
+        "spread": "1-48",
+        "spreadTeam": "away",
+        "total": "8.0"
+      },
+      {
+        "time": "20:18",
+        "spread": "1-54",
+        "spreadTeam": "away",
+        "total": "8.0"
+      },
+      {
+        "time": "22:58",
+        "spread": "1-12",
+        "spreadTeam": "away",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mogx8hn6",
+    "date": "2026-04-28",
+    "sport": "mlb",
+    "away": "小熊",
+    "home": "教士",
+    "spread": "1+80",
+    "spreadTeam": "home",
+    "total": "8.0",
+    "gametime": "09:40",
+    "recordAway": "17-11",
+    "recordHome": "18-9",
+    "pitcherAway": "波伊德",
+    "pitcherAwayStats": "1-1(5.79)",
+    "pitcherHome": "瓦茲奎茲",
+    "pitcherHomeStats": "2-0(1.88)",
+    "streakLabelAway": "2連敗",
+    "streakLabelHome": "1連敗",
+    "score": "7-9",
+    "oddsHistory": [
+      {
+        "time": "16:15",
+        "spread": "1+88",
+        "spreadTeam": "away",
+        "total": "8.0"
+      },
+      {
+        "time": "20:18",
+        "spread": "PK",
+        "spreadTeam": "away",
+        "total": "8.0"
+      },
+      {
+        "time": "22:58",
+        "spread": "1+80",
+        "spreadTeam": "home",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mogx9q53",
+    "date": "2026-04-28",
+    "sport": "mlb",
+    "away": "馬林",
+    "home": "道奇",
+    "spread": "3+100",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "10:10",
+    "recordAway": "13-15",
+    "recordHome": "19-9",
+    "pitcherAway": "帕達克",
+    "pitcherAwayStats": "0-4(6.38)",
+    "pitcherHome": "山本由伸",
+    "pitcherHomeStats": "2-2(2.48)",
+    "streakLabelAway": "2連敗",
+    "streakLabelHome": "2連勝",
+    "score": "4-5",
+    "oddsHistory": [
+      {
+        "time": "16:15",
+        "spread": "2-74",
+        "spreadTeam": "home",
+        "total": "8.0"
+      },
+      {
+        "time": "20:18",
+        "spread": "3+100",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "moi8rh0f",
+    "date": "2026-04-29",
+    "sport": "nba",
+    "away": "七六",
+    "home": "塞爾",
+    "spread": "-11.5",
+    "spreadTeam": "home",
+    "total": "213.5",
+    "gametime": "07:05",
+    "recordAway": "47-40",
+    "recordHome": "59-27",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "113-97",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "-11.5",
+        "spreadTeam": "home",
+        "total": "214.5"
+      },
+      {
+        "time": "22:30",
+        "spread": "-11.5",
+        "spreadTeam": "home",
+        "total": "213.5"
+      }
+    ]
+  },
+  {
+    "gameId": "moi8s2mw",
+    "date": "2026-04-29",
+    "sport": "nba",
+    "away": "老鷹",
+    "home": "尼克",
+    "spread": "-6.5",
+    "spreadTeam": "home",
+    "total": "214.5",
+    "gametime": "08:05",
+    "recordAway": "48-38",
+    "recordHome": "55-31",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "97-126",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "-6.5",
+        "spreadTeam": "home",
+        "total": "213"
+      },
+      {
+        "time": "21:07",
+        "spread": "-6.5",
+        "spreadTeam": "home",
+        "total": "214.5"
+      }
+    ]
+  },
+  {
+    "gameId": "moi8suii",
+    "date": "2026-04-29",
+    "sport": "nba",
+    "away": "拓荒",
+    "home": "馬刺",
+    "spread": "-12.0",
+    "spreadTeam": "home",
+    "total": "216.5",
+    "gametime": "09:35",
+    "recordAway": "44-43",
+    "recordHome": "65-21",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "95-114",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "-12.0",
+        "spreadTeam": "home",
+        "total": "215.5"
+      },
+      {
+        "time": "22:30",
+        "spread": "-12.0",
+        "spreadTeam": "home",
+        "total": "216.5"
+      }
+    ]
+  },
+  {
+    "gameId": "moi8ux40",
+    "date": "2026-04-29",
+    "sport": "mlb",
+    "away": "光芒",
+    "home": "守護",
+    "spread": "1+42",
+    "spreadTeam": "home",
+    "total": "7.5",
+    "gametime": "06:10",
+    "recordAway": "17-11",
+    "recordHome": "15-15",
+    "pitcherAway": "馬丁尼茲",
+    "pitcherAwayStats": "1-1(2.10)",
+    "pitcherHome": "畢比",
+    "pitcherHomeStats": "0-3(4.45)",
+    "streakLabelAway": "5連勝",
+    "streakLabelHome": "3連敗",
+    "score": "1-0",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "1+42",
+        "spreadTeam": "home",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "moi8wa08",
+    "date": "2026-04-29",
+    "sport": "mlb",
+    "away": "太空",
+    "home": "金鶯",
+    "spread": "1+34",
+    "spreadTeam": "home",
+    "total": "9.0",
+    "gametime": "06:35",
+    "recordAway": "11-18",
+    "recordHome": "13-15",
+    "pitcherAway": "鄧愷威",
+    "pitcherAwayStats": "1-1(2.16)",
+    "pitcherHome": "巴茲",
+    "pitcherHomeStats": "0-2(4.77)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "2連敗",
+    "score": "3-5",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "1+34",
+        "spreadTeam": "home",
+        "total": "9.0"
+      }
+    ]
+  },
+  {
+    "gameId": "moi8xawx",
+    "date": "2026-04-29",
+    "sport": "mlb",
+    "away": "落磯",
+    "home": "紅人",
+    "spread": "1-88",
+    "spreadTeam": "home",
+    "total": "9.0",
+    "gametime": "06:40",
+    "recordAway": "13-16",
+    "recordHome": "18-10",
+    "pitcherAway": "不明",
+    "pitcherAwayStats": "- - - -",
+    "pitcherHome": "柏恩斯",
+    "pitcherHomeStats": "2-1(2.57)",
+    "streakLabelAway": "3連勝",
+    "streakLabelHome": "1連敗",
+    "score": "2-7",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "1-92",
+        "spreadTeam": "home",
+        "total": "9.0"
+      },
+      {
+        "time": "21:07",
+        "spread": "1-88",
+        "spreadTeam": "home",
+        "total": "9.0"
+      }
+    ]
+  },
+  {
+    "gameId": "moi8yg6d",
+    "date": "2026-04-29",
+    "sport": "mlb",
+    "away": "巨人",
+    "home": "費城",
+    "spread": "1-18",
+    "spreadTeam": "home",
+    "total": "8.0",
+    "gametime": "06:40",
+    "recordAway": "13-15",
+    "recordHome": "9-19",
+    "pitcherAway": "梅荷",
+    "pitcherAwayStats": "1-3(5.26)",
+    "pitcherHome": "盧薩多",
+    "pitcherHomeStats": "1-3(6.92)",
+    "streakLabelAway": "2連勝",
+    "streakLabelHome": "1連敗",
+    "score": "0-7",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "1-30",
+        "spreadTeam": "home",
+        "total": "8.0"
+      },
+      {
+        "time": "21:07",
+        "spread": "1-24",
+        "spreadTeam": "home",
+        "total": "8.0"
+      },
+      {
+        "time": "22:29",
+        "spread": "1-18",
+        "spreadTeam": "home",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "moi909mt",
+    "date": "2026-04-29",
+    "sport": "mlb",
+    "away": "紅雀",
+    "home": "海盜",
+    "spread": "1平",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "06:40",
+    "recordAway": "15-13",
+    "recordHome": "16-13",
+    "pitcherAway": "萊希",
+    "pitcherAwayStats": "2-3(5.63)",
+    "pitcherHome": "不明",
+    "pitcherHomeStats": "- - - -",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "2連敗",
+    "score": "11-7",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "1-06",
+        "spreadTeam": "home",
+        "total": "8.0"
+      },
+      {
+        "time": "21:07",
+        "spread": "1+02",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "22:29",
+        "spread": "1平",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "moi91j0x",
+    "date": "2026-04-29",
+    "sport": "mlb",
+    "away": "紅襪",
+    "home": "藍鳥",
+    "spread": "1+84",
+    "spreadTeam": "home",
+    "total": "7.5",
+    "gametime": "07:07",
+    "recordAway": "12-17",
+    "recordHome": "12-16",
+    "pitcherAway": "托勒",
+    "pitcherAwayStats": "0-0(1.50)",
+    "pitcherHome": "耶薩維奇",
+    "pitcherHomeStats": "- - - -",
+    "streakLabelAway": "3連勝",
+    "streakLabelHome": "1連敗",
+    "score": "0-3",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "1+84",
+        "spreadTeam": "home",
+        "total": "8.0"
+      },
+      {
+        "time": "21:07",
+        "spread": "1+84",
+        "spreadTeam": "home",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "moi92r6y",
+    "date": "2026-04-29",
+    "sport": "mlb",
+    "away": "國民",
+    "home": "大都",
+    "spread": "1-58",
+    "spreadTeam": "home",
+    "total": "7.5",
+    "gametime": "07:10",
+    "recordAway": "13-16",
+    "recordHome": "9-19",
+    "pitcherAway": "利特爾",
+    "pitcherAwayStats": "0-3(7.56)",
+    "pitcherHome": "霍姆斯",
+    "pitcherHomeStats": "2-2(2.10)",
+    "streakLabelAway": "2連勝",
+    "streakLabelHome": "3連敗",
+    "score": "0-8",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "1-58",
+        "spreadTeam": "home",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "moi93yp8",
+    "date": "2026-04-29",
+    "sport": "mlb",
+    "away": "老虎",
+    "home": "勇士",
+    "spread": "1+66",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "07:15",
+    "recordAway": "15-14",
+    "recordHome": "20-9",
+    "pitcherAway": "米茲",
+    "pitcherAwayStats": "2-1(2.51)",
+    "pitcherHome": "培瑞茲",
+    "pitcherHomeStats": "1-1(2.70)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連勝",
+    "score": "2-5",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "1+70",
+        "spreadTeam": "home",
+        "total": "9.5"
+      },
+      {
+        "time": "21:07",
+        "spread": "1+66",
+        "spreadTeam": "home",
+        "total": "9.0"
+      },
+      {
+        "time": "22:29",
+        "spread": "1+66",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "moi95ap7",
+    "date": "2026-04-29",
+    "sport": "mlb",
+    "away": "天使",
+    "home": "白襪",
+    "spread": "1+46",
+    "spreadTeam": "away",
+    "total": "8.0",
+    "gametime": "07:40",
+    "recordAway": "12-18",
+    "recordHome": "12-17",
+    "pitcherAway": "索里亞諾",
+    "pitcherAwayStats": "5-0(0.24)",
+    "pitcherHome": "馬汀",
+    "pitcherHomeStats": "3-1(2.01)",
+    "streakLabelAway": "4連敗",
+    "streakLabelHome": "1連勝",
+    "score": "2-5",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "1+18",
+        "spreadTeam": "away",
+        "total": "8.0"
+      },
+      {
+        "time": "21:07",
+        "spread": "1+42",
+        "spreadTeam": "away",
+        "total": "7.5"
+      },
+      {
+        "time": "22:29",
+        "spread": "1+46",
+        "spreadTeam": "away",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "moi96e3h",
+    "date": "2026-04-29",
+    "sport": "mlb",
+    "away": "響蛇",
+    "home": "釀酒",
+    "spread": "1+78",
+    "spreadTeam": "home",
+    "total": "8.0",
+    "gametime": "07:40",
+    "recordAway": "15-12",
+    "recordHome": "14-13",
+    "pitcherAway": "凱利",
+    "pitcherAwayStats": "1-1(9.31)",
+    "pitcherHome": "派屈克",
+    "pitcherHomeStats": "1-1(2.35)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連勝",
+    "score": "2-13",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "1+90",
+        "spreadTeam": "home",
+        "total": "8.0"
+      },
+      {
+        "time": "22:29",
+        "spread": "1+78",
+        "spreadTeam": "home",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "moi97mu9",
+    "date": "2026-04-29",
+    "sport": "mlb",
+    "away": "水手",
+    "home": "雙城",
+    "spread": "1+64",
+    "spreadTeam": "away",
+    "total": "7.5",
+    "gametime": "07:40",
+    "recordAway": "14-16",
+    "recordHome": "13-16",
+    "pitcherAway": "吉伯特",
+    "pitcherAwayStats": "1-3(4.36)",
+    "pitcherHome": "萊恩",
+    "pitcherHomeStats": "2-2(3.90)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "7-1",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "1+52",
+        "spreadTeam": "away",
+        "total": "7.5"
+      },
+      {
+        "time": "21:07",
+        "spread": "1+64",
+        "spreadTeam": "away",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "moi9bu0i",
+    "date": "2026-04-29",
+    "sport": "mlb",
+    "away": "洋基",
+    "home": "騎兵",
+    "spread": "1+74",
+    "spreadTeam": "away",
+    "total": "7.5",
+    "gametime": "08:05",
+    "recordAway": "19-10",
+    "recordHome": "14-15",
+    "pitcherAway": "施利特勒",
+    "pitcherAwayStats": "3-1(1.77)",
+    "pitcherHome": "迪葛羅",
+    "pitcherHomeStats": "2-0(2.13)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "2連敗",
+    "score": "3-2",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "1+64",
+        "spreadTeam": "away",
+        "total": "7.5"
+      },
+      {
+        "time": "21:07",
+        "spread": "1+74",
+        "spreadTeam": "away",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "moi9djq8",
+    "date": "2026-04-29",
+    "sport": "mlb",
+    "away": "小熊",
+    "home": "教士",
+    "spread": "1+70",
+    "spreadTeam": "away",
+    "total": "8.5",
+    "gametime": "09:40",
+    "recordAway": "17-12",
+    "recordHome": "19-9",
+    "pitcherAway": "卡布瑞拉",
+    "pitcherAwayStats": "2-0(2.73)",
+    "pitcherHome": "布勒",
+    "pitcherHomeStats": "1-2(5.76)",
+    "streakLabelAway": "3連敗",
+    "streakLabelHome": "1連勝",
+    "score": "8-3",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "1+66",
+        "spreadTeam": "away",
+        "total": "8.5"
+      },
+      {
+        "time": "21:07",
+        "spread": "1+70",
+        "spreadTeam": "away",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "moi9etse",
+    "date": "2026-04-29",
+    "sport": "mlb",
+    "away": "皇家",
+    "home": "運動",
+    "spread": "1+88",
+    "spreadTeam": "away",
+    "total": "9.5",
+    "gametime": "09:40",
+    "recordAway": "11-17",
+    "recordHome": "15-13",
+    "pitcherAway": "布比克",
+    "pitcherAwayStats": "2-1(4.08)",
+    "pitcherHome": "羅培茲",
+    "pitcherHomeStats": "2-1(5.84)",
+    "streakLabelAway": "3連勝",
+    "streakLabelHome": "1連勝",
+    "score": "4-1",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "1+80",
+        "spreadTeam": "away",
+        "total": "9.5"
+      },
+      {
+        "time": "22:29",
+        "spread": "1+88",
+        "spreadTeam": "away",
+        "total": "9.5"
+      }
+    ]
+  },
+  {
+    "gameId": "moi9hvki",
+    "date": "2026-04-29",
+    "sport": "mlb",
+    "away": "馬林",
+    "home": "道奇",
+    "spread": "2-60",
+    "spreadTeam": "home",
+    "total": "8.0",
+    "gametime": "10:10",
+    "recordAway": "13-16",
+    "recordHome": "20-9",
+    "pitcherAway": "將克",
+    "pitcherAwayStats": "1-2(3.67)",
+    "pitcherHome": "大谷翔平",
+    "pitcherHomeStats": "2-0(0.38)",
+    "streakLabelAway": "3連敗",
+    "streakLabelHome": "3連勝",
+    "score": "2-1",
+    "oddsHistory": [
+      {
+        "time": "14:47",
+        "spread": "2-72",
+        "spreadTeam": "home",
+        "total": "8.0"
+      },
+      {
+        "time": "21:07",
+        "spread": "2-80",
+        "spreadTeam": "home",
+        "total": "8.0"
+      },
+      {
+        "time": "22:29",
+        "spread": "2-60",
+        "spreadTeam": "home",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mojm1ar4",
+    "date": "2026-04-30",
+    "sport": "nba",
+    "away": "魔術",
+    "home": "活塞",
+    "spread": "-10.0",
+    "spreadTeam": "home",
+    "total": "211.5",
+    "gametime": "07:05",
+    "recordAway": "49-39",
+    "recordHome": "61-25",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "109-116",
+    "oddsHistory": [
+      {
+        "time": "14:00",
+        "spread": "-9.5",
+        "spreadTeam": "home",
+        "total": "211.5"
+      },
+      {
+        "time": "22:14",
+        "spread": "-10.0",
+        "spreadTeam": "home",
+        "total": "211.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mojm1z0z",
+    "date": "2026-04-30",
+    "sport": "nba",
+    "away": "暴龍",
+    "home": "騎士",
+    "spread": "-9.0",
+    "spreadTeam": "home",
+    "total": "217",
+    "gametime": "07:35",
+    "recordAway": "48-38",
+    "recordHome": "54-32",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "120-125",
+    "oddsHistory": [
+      {
+        "time": "14:00",
+        "spread": "-9.0",
+        "spreadTeam": "home",
+        "total": "216"
+      },
+      {
+        "time": "22:14",
+        "spread": "-9.0",
+        "spreadTeam": "home",
+        "total": "217"
+      }
+    ]
+  },
+  {
+    "gameId": "mojm2maj",
+    "date": "2026-04-30",
+    "sport": "nba",
+    "away": "火箭",
+    "home": "湖人",
+    "spread": "-4.0",
+    "spreadTeam": "home",
+    "total": "208.5",
+    "gametime": "10:05",
+    "recordAway": "53-33",
+    "recordHome": "56-30",
+    "pitcherAway": "",
+    "pitcherAwayStats": "",
+    "pitcherHome": "",
+    "pitcherHomeStats": "",
+    "streakLabelAway": "",
+    "streakLabelHome": "",
+    "score": "99-93",
+    "oddsHistory": [
+      {
+        "time": "14:00",
+        "spread": "-4.0",
+        "spreadTeam": "home",
+        "total": "208.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mojmbvig",
+    "date": "2026-04-30",
+    "sport": "mlb",
+    "away": "光芒",
+    "home": "守護",
+    "spread": "1+78",
+    "spreadTeam": "home",
+    "total": "6.5",
+    "gametime": "01:10",
+    "recordAway": "18-11",
+    "recordHome": "15-16",
+    "pitcherAway": "拉斯穆森",
+    "pitcherAwayStats": "2-0(2.45)",
+    "pitcherHome": "威廉姆斯",
+    "pitcherHomeStats": "4-1(3.28)",
+    "streakLabelAway": "6連勝",
+    "streakLabelHome": "4連敗",
+    "score": "1-3",
+    "oddsHistory": [
+      {
+        "time": "14:00",
+        "spread": "1+68",
+        "spreadTeam": "home",
+        "total": "6.5"
+      },
+      {
+        "time": "20:32",
+        "spread": "1+80",
+        "spreadTeam": "home",
+        "total": "7.0"
+      },
+      {
+        "time": "22:14",
+        "spread": "1+78",
+        "spreadTeam": "home",
+        "total": "6.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mojmdnjl",
+    "date": "2026-04-30",
+    "sport": "mlb",
+    "away": "天使",
+    "home": "白襪",
+    "spread": "1+72",
+    "spreadTeam": "away",
+    "total": "8.5",
+    "gametime": "01:10",
+    "recordAway": "12-19",
+    "recordHome": "13-17",
+    "pitcherAway": "菊池雄星",
+    "pitcherAwayStats": "0-3(6.21)",
+    "pitcherHome": "費德",
+    "pitcherHomeStats": "0-3(3.42)",
+    "streakLabelAway": "5連敗",
+    "streakLabelHome": "2連勝",
+    "score": "2-3",
+    "oddsHistory": [
+      {
+        "time": "14:00",
+        "spread": "1+58",
+        "spreadTeam": "away",
+        "total": "8.5"
+      },
+      {
+        "time": "20:32",
+        "spread": "1+72",
+        "spreadTeam": "away",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mojmf8bj",
+    "date": "2026-04-30",
+    "sport": "mlb",
+    "away": "水手",
+    "home": "雙城",
+    "spread": "1+52",
+    "spreadTeam": "away",
+    "total": "7.5",
+    "gametime": "01:40",
+    "recordAway": "15-16",
+    "recordHome": "13-17",
+    "pitcherAway": "柯比",
+    "pitcherAwayStats": "4-2(2.97)",
+    "pitcherHome": "布萊德利",
+    "pitcherHomeStats": "3-1(2.91)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連敗",
+    "score": "5-3",
+    "oddsHistory": [
+      {
+        "time": "14:00",
+        "spread": "1+52",
+        "spreadTeam": "away",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mojmk9vj",
+    "date": "2026-04-30",
+    "sport": "mlb",
+    "away": "洋基",
+    "home": "騎兵",
+    "spread": "1+80",
+    "spreadTeam": "away",
+    "total": "8.5",
+    "gametime": "07:00",
+    "recordAway": "20-10",
+    "recordHome": "14-16",
+    "pitcherAway": "羅德里格斯",
+    "pitcherAwayStats": "- - - -",
+    "pitcherHome": "伊歐沃蒂",
+    "pitcherHomeStats": "2-4(5.79)",
+    "streakLabelAway": "2連勝",
+    "streakLabelHome": "3連敗",
+    "score": "0-3",
+    "oddsHistory": [
+      {
+        "time": "14:00",
+        "spread": "1+74",
+        "spreadTeam": "away",
+        "total": "8.5"
+      },
+      {
+        "time": "22:14",
+        "spread": "1+80",
+        "spreadTeam": "away",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mojmmirz",
+    "date": "2026-04-30",
+    "sport": "mlb",
+    "away": "馬林",
+    "home": "道奇",
+    "spread": "2+58",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "03:10",
+    "recordAway": "14-16",
+    "recordHome": "20-10",
+    "pitcherAway": "阿爾坎塔拉",
+    "pitcherAwayStats": "3-2(3.27)",
+    "pitcherHome": "葛拉斯諾",
+    "pitcherHomeStats": "3-0(2.45)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連敗",
+    "score": "3-2",
+    "oddsHistory": [
+      {
+        "time": "14:00",
+        "spread": "2+86",
+        "spreadTeam": "home",
+        "total": "8.0"
+      },
+      {
+        "time": "20:32",
+        "spread": "2+68",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "22:14",
+        "spread": "2+58",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mojmnzei",
+    "date": "2026-04-30",
+    "sport": "mlb",
+    "away": "小熊",
+    "home": "教士",
+    "spread": "1+82",
+    "spreadTeam": "away",
+    "total": "8.5",
+    "gametime": "04:10",
+    "recordAway": "18-12",
+    "recordHome": "19-10",
+    "pitcherAway": "泰隆",
+    "pitcherAwayStats": "1-1(4.55)",
+    "pitcherHome": "沃德隆",
+    "pitcherHomeStats": "0-1(12.46)",
+    "streakLabelAway": "1連勝",
+    "streakLabelHome": "1連敗",
+    "score": "5-4",
+    "oddsHistory": [
+      {
+        "time": "14:00",
+        "spread": "PK",
+        "spreadTeam": "away",
+        "total": "9.0"
+      },
+      {
+        "time": "20:32",
+        "spread": "1+82",
+        "spreadTeam": "away",
+        "total": "9.0"
+      },
+      {
+        "time": "22:14",
+        "spread": "1+82",
+        "spreadTeam": "away",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mojmxizf",
+    "date": "2026-04-30",
+    "sport": "mlb",
+    "away": "太空",
+    "home": "金鶯",
+    "spread": "1+56",
+    "spreadTeam": "home",
+    "total": "9.0",
+    "gametime": "06:35",
+    "recordAway": "11-19",
+    "recordHome": "14-15",
+    "pitcherAway": "藍伯特",
+    "pitcherAwayStats": "1-1(3.27)",
+    "pitcherHome": "巴希特",
+    "pitcherHomeStats": "1-2(6.75)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "延:期",
+    "oddsHistory": [
+      {
+        "time": "14:00",
+        "spread": "1+74",
+        "spreadTeam": "home",
+        "total": "9.0"
+      },
+      {
+        "time": "20:32",
+        "spread": "1+42",
+        "spreadTeam": "home",
+        "total": "9.0"
+      },
+      {
+        "time": "22:14",
+        "spread": "1+56",
+        "spreadTeam": "home",
+        "total": "9.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mojmz7n2",
+    "date": "2026-04-30",
+    "sport": "mlb",
+    "away": "紅雀",
+    "home": "海盜",
+    "spread": "1平",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "07:00",
+    "recordAway": "16-13",
+    "recordHome": "16-14",
+    "pitcherAway": "帕蘭特",
+    "pitcherAwayStats": "2-2(4.26)",
+    "pitcherHome": "錢德勒",
+    "pitcherHomeStats": "1-2(4.88)",
+    "streakLabelAway": "2連勝",
+    "streakLabelHome": "3連敗",
+    "score": "5-4",
+    "oddsHistory": [
+      {
+        "time": "14:00",
+        "spread": "1+16",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mojn10ih",
+    "date": "2026-04-30",
+    "sport": "mlb",
+    "away": "巨人",
+    "home": "費城",
+    "spread": "1+20",
+    "spreadTeam": "home",
+    "total": "7.0",
+    "gametime": "06:40",
+    "recordAway": "13-16",
+    "recordHome": "10-19",
+    "pitcherAway": "韋伯",
+    "pitcherAwayStats": "2-3(4.86)",
+    "pitcherHome": "桑其士",
+    "pitcherHomeStats": "2-2(2.94)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "延:期",
+    "oddsHistory": [
+      {
+        "time": "14:00",
+        "spread": "1+16",
+        "spreadTeam": "home",
+        "total": "7.0"
+      },
+      {
+        "time": "22:14",
+        "spread": "1+20",
+        "spreadTeam": "home",
+        "total": "7.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mojn2mfd",
+    "date": "2026-04-30",
+    "sport": "mlb",
+    "away": "老虎",
+    "home": "勇士",
+    "spread": "1+20",
+    "spreadTeam": "away",
+    "total": "8.0",
+    "gametime": "07:00",
+    "recordAway": "15-15",
+    "recordHome": "21-9",
+    "pitcherAway": "斯庫巴爾",
+    "pitcherAwayStats": "3-2(2.72)",
+    "pitcherHome": "里奇",
+    "pitcherHomeStats": "1-0(2.57)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "2連勝",
+    "score": "3-4",
+    "oddsHistory": [
+      {
+        "time": "14:00",
+        "spread": "1+18",
+        "spreadTeam": "away",
+        "total": "8.0"
+      },
+      {
+        "time": "20:32",
+        "spread": "1+26",
+        "spreadTeam": "away",
+        "total": "8.0"
+      },
+      {
+        "time": "22:14",
+        "spread": "1+20",
+        "spreadTeam": "away",
+        "total": "8.0"
+      }
+    ]
+  },
+  {
+    "gameId": "mojn4aeq",
+    "date": "2026-04-30",
+    "sport": "mlb",
+    "away": "響蛇",
+    "home": "釀酒",
+    "spread": "1+56",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "07:40",
+    "recordAway": "15-13",
+    "recordHome": "15-13",
+    "pitcherAway": "羅德里格斯",
+    "pitcherAwayStats": "2-0(2.89)",
+    "pitcherHome": "史普羅特",
+    "pitcherHomeStats": "0-1(6.45)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "2連勝",
+    "score": "6-2",
+    "oddsHistory": [
+      {
+        "time": "14:00",
+        "spread": "1+66",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "20:32",
+        "spread": "1+48",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "22:14",
+        "spread": "1+56",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mojn5f9o",
+    "date": "2026-04-30",
+    "sport": "mlb",
+    "away": "皇家",
+    "home": "運動",
+    "spread": "1+62",
+    "spreadTeam": "home",
+    "total": "10.5",
+    "gametime": "09:40",
+    "recordAway": "11-17",
+    "recordHome": "15-13",
+    "pitcherAway": "瓦卡",
+    "pitcherAwayStats": "2-1(2.51)",
+    "pitcherHome": "塞維里諾",
+    "pitcherHomeStats": "1-2(5.17)",
+    "streakLabelAway": "3連勝",
+    "streakLabelHome": "1連勝",
+    "score": "2-5",
+    "oddsHistory": [
+      {
+        "time": "14:00",
+        "spread": "1+70",
+        "spreadTeam": "home",
+        "total": "10.0"
+      },
+      {
+        "time": "20:32",
+        "spread": "1+64",
+        "spreadTeam": "home",
+        "total": "10.0"
+      },
+      {
+        "time": "22:14",
+        "spread": "1+62",
+        "spreadTeam": "home",
+        "total": "10.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mojn7m52",
+    "date": "2026-04-30",
+    "sport": "mlb",
+    "away": "國民",
+    "home": "大都",
+    "spread": "1-12",
+    "spreadTeam": "home",
+    "total": "7.5",
+    "gametime": "07:10",
+    "recordAway": "13-17",
+    "recordHome": "10-19",
+    "pitcherAway": "卡瓦利",
+    "pitcherAwayStats": "0-1(4.01)",
+    "pitcherHome": "彼得森",
+    "pitcherHomeStats": "0-3(5.06)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "14-2",
+    "oddsHistory": [
+      {
+        "time": "20:32",
+        "spread": "1-18",
+        "spreadTeam": "home",
+        "total": "7.5"
+      },
+      {
+        "time": "22:14",
+        "spread": "1-12",
+        "spreadTeam": "home",
+        "total": "7.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mojn9sey",
+    "date": "2026-04-30",
+    "sport": "mlb",
+    "away": "落磯",
+    "home": "紅人",
+    "spread": "1平",
+    "spreadTeam": "home",
+    "total": "9.5",
+    "gametime": "06:40",
+    "recordAway": "13-17",
+    "recordHome": "19-10",
+    "pitcherAway": "菅野智之",
+    "pitcherAwayStats": "2-1(3.42)",
+    "pitcherHome": "威廉姆森",
+    "pitcherHomeStats": "2-2(5.40)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "13-2",
+    "oddsHistory": [
+      {
+        "time": "20:32",
+        "spread": "1+08",
+        "spreadTeam": "home",
+        "total": "9.5"
+      },
+      {
+        "time": "22:14",
+        "spread": "1+02",
+        "spreadTeam": "home",
+        "total": "9.5"
+      }
+    ]
+  },
+  {
+    "gameId": "mojnbrai",
+    "date": "2026-04-30",
+    "sport": "mlb",
+    "away": "紅襪",
+    "home": "藍鳥",
+    "spread": "1+56",
+    "spreadTeam": "home",
+    "total": "8.5",
+    "gametime": "03:05",
+    "recordAway": "12-18",
+    "recordHome": "13-16",
+    "pitcherAway": "貝羅",
+    "pitcherAwayStats": "1-3(9.00)",
+    "pitcherHome": "勞爾",
+    "pitcherHomeStats": "1-3(6.75)",
+    "streakLabelAway": "1連敗",
+    "streakLabelHome": "1連勝",
+    "score": "1-8",
+    "oddsHistory": [
+      {
+        "time": "20:32",
+        "spread": "1+46",
+        "spreadTeam": "home",
+        "total": "8.5"
+      },
+      {
+        "time": "22:14",
+        "spread": "1+56",
+        "spreadTeam": "home",
+        "total": "8.5"
+      }
+    ]
+  }
+]
