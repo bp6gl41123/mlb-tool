@@ -1,0 +1,383 @@
+[
+  {
+    "time": "2026-06-14T18:22:57.027807",
+    "leagues": [
+      {
+        "league": "美國職業棒球大聯盟",
+        "games": [
+          {
+            "matchup": "科羅拉多洛磯 Athletics 19:05",
+            "moneyline": {
+              "away": 172,
+              "home": -188
+            },
+            "asian": "0+24",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          },
+          {
+            "matchup": "芝加哥小熊 舊金山巨人 19:10",
+            "moneyline": {
+              "away": 116,
+              "home": -126
+            },
+            "asian": "1+48",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          },
+          {
+            "matchup": "坦帕灣光芒 洛杉磯安那罕天使 20:07",
+            "moneyline": {
+              "away": -119,
+              "home": 110
+            },
+            "asian": "1+62",
+            "favorite": "away",
+            "spread": {
+              "away": "-1.5",
+              "home": "+1.5"
+            }
+          },
+          {
+            "matchup": "德州遊騎兵 波士頓紅襪 23:20",
+            "moneyline": {
+              "away": 100,
+              "home": -110
+            },
+            "asian": "1+80",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          }
+        ]
+      }
+    ],
+    "changes": []
+  },
+  {
+    "time": "2026-06-15T06:40:43.000000",
+    "leagues": [
+      {
+        "league": "美國職業棒球大聯盟",
+        "games": [
+          {
+            "matchup": "邁阿密馬林魚 費城費城人 22:40",
+            "moneyline": {
+              "away": 178,
+              "home": -200
+            },
+            "asian": "2+100",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          },
+          {
+            "matchup": "堪薩斯市皇家 華盛頓國民 22:45",
+            "moneyline": {
+              "away": 121,
+              "home": -134
+            },
+            "asian": "1+32",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          },
+          {
+            "matchup": "紐約大都會 辛辛那提紅人 23:10",
+            "moneyline": {
+              "away": 118,
+              "home": -131
+            },
+            "asian": "1+38",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          }
+        ]
+      }
+    ],
+    "changes": []
+  },
+  {
+    "time": "2026-06-15T18:15:00.000000",
+    "leagues": [
+      {
+        "league": "美國職業棒球大聯盟",
+        "games": [
+          {
+            "matchup": "邁阿密馬林魚 費城費城人 22:40",
+            "moneyline": {
+              "away": 178,
+              "home": -200
+            },
+            "asian": "2+100",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          },
+          {
+            "matchup": "堪薩斯市皇家 華盛頓國民 22:45",
+            "moneyline": {
+              "away": 121,
+              "home": -134
+            },
+            "asian": "1+32",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          },
+          {
+            "matchup": "紐約大都會 辛辛那提紅人 23:10",
+            "moneyline": {
+              "away": 118,
+              "home": -131
+            },
+            "asian": "1+38",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          },
+          {
+            "matchup": "底特律老虎 休士頓太空人 00:10",
+            "moneyline": {
+              "away": 116,
+              "home": -128
+            },
+            "asian": "1+44",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          },
+          {
+            "matchup": "洛杉磯安那罕天使 亞利桑那響尾蛇 01:40",
+            "moneyline": {
+              "away": 112,
+              "home": -123
+            },
+            "asian": "1+54",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          },
+          {
+            "matchup": "匹茲堡海盜 Athletics 01:40",
+            "moneyline": {
+              "away": 113,
+              "home": -124
+            },
+            "asian": "1+52",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          },
+          {
+            "matchup": "坦帕灣光芒 洛杉磯道奇 02:10",
+            "moneyline": {
+              "away": 142,
+              "home": -158
+            },
+            "asian": "1-16",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          }
+        ]
+      }
+    ],
+    "changes": [],
+    "note": "頁面 GMT 時間戳 06:40:43 與前次紀錄相同，今日盤口未更新。新增明日(6/16) 4 場賽事。"
+  },
+  {
+    "time": "2026-06-15T07:03:56.841085+00:00",
+    "leagues": [
+      {
+        "league": "美國職業棒球大聯盟",
+        "games": [
+          {
+            "matchup": "邁阿密馬林魚 費城費城人 22:40",
+            "moneyline": {
+              "away": 178,
+              "home": -200
+            },
+            "asian": "2+100",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          },
+          {
+            "matchup": "堪薩斯市皇家 華盛頓國民 22:45",
+            "moneyline": {
+              "away": 121,
+              "home": -134
+            },
+            "asian": "1+32",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          },
+          {
+            "matchup": "紐約大都會 辛辛那提紅人 23:10",
+            "moneyline": {
+              "away": 118,
+              "home": -131
+            },
+            "asian": "1+38",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          },
+          {
+            "matchup": "底特律老虎 休士頓太空人 00:10",
+            "moneyline": {
+              "away": 116,
+              "home": -128
+            },
+            "asian": "1+44",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          },
+          {
+            "matchup": "洛杉磯安那罕天使 亞利桑那響尾蛇 01:40",
+            "moneyline": {
+              "away": 112,
+              "home": -123
+            },
+            "asian": "1+54",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          },
+          {
+            "matchup": "匹茲堡海盜 Athletics 01:40",
+            "moneyline": {
+              "away": 113,
+              "home": -124
+            },
+            "asian": "1+52",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          },
+          {
+            "matchup": "坦帕灣光芒 洛杉磯道奇 02:10",
+            "moneyline": {
+              "away": 142,
+              "home": -158
+            },
+            "asian": "1-16",
+            "favorite": "home",
+            "spread": {
+              "away": "+1.5",
+              "home": "-1.5"
+            }
+          }
+        ]
+      }
+    ],
+    "changes": [],
+    "page_gmt": "06:40:43 (GMT)"
+  },
+  {
+    "time": "2026-06-15T08:02:41.000000+00:00",
+    "leagues": [
+      {
+        "league": "美國職業棒球大聯盟",
+        "games": [
+          {
+            "matchup": "邁阿密馬林魚 費城費城人 22:40",
+            "moneyline": {"away": 178, "home": -200},
+            "asian": "2+100",
+            "favorite": "home",
+            "spread": {"away": "+1.5", "home": "-1.5"}
+          },
+          {
+            "matchup": "堪薩斯市皇家 華盛頓國民 22:45",
+            "moneyline": {"away": 121, "home": -134},
+            "asian": "1+32",
+            "favorite": "home",
+            "spread": {"away": "+1.5", "home": "-1.5"}
+          },
+          {
+            "matchup": "紐約大都會 辛辛那提紅人 23:10",
+            "moneyline": {"away": 118, "home": -131},
+            "asian": "1+38",
+            "favorite": "home",
+            "spread": {"away": "+1.5", "home": "-1.5"}
+          },
+          {
+            "matchup": "底特律老虎 休士頓太空人 00:10",
+            "moneyline": {"away": 116, "home": -128},
+            "asian": "1+44",
+            "favorite": "home",
+            "spread": {"away": "+1.5", "home": "-1.5"}
+          },
+          {
+            "matchup": "洛杉磯安那罕天使 亞利桑那響尾蛇 01:40",
+            "moneyline": {"away": 112, "home": -123},
+            "asian": "1+54",
+            "favorite": "home",
+            "spread": {"away": "+1.5", "home": "-1.5"}
+          },
+          {
+            "matchup": "匹茲堡海盜 Athletics 01:40",
+            "moneyline": {"away": 113, "home": -124},
+            "asian": "1+52",
+            "favorite": "home",
+            "spread": {"away": "+1.5", "home": "-1.5"}
+          },
+          {
+            "matchup": "坦帕灣光芒 洛杉磯道奇 02:10",
+            "moneyline": {"away": 142, "home": -158},
+            "asian": "1-16",
+            "favorite": "home",
+            "spread": {"away": "+1.5", "home": "-1.5"}
+          }
+        ]
+      }
+    ],
+    "changes": [],
+    "page_gmt": "06:40:43 (GMT)",
+    "note": "頁面 GMT 時間戳與前次相同，盤口無異動。"
+  }
+]
